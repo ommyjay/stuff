@@ -6,3 +6,4 @@
 - [CF7 Contact Form 7 Customizer & Themes](https://cf7customizer.wptie.com/) 
 - [awesome-jamstacks: Carefully curated list of awesome JAMstack resources](https://github.com/ahmadawais/awesome-jamstack) 
 - [Everything GIT](https://github.com/ahmadawais/hacktoberfest) 
+- [useHooks - Easy to understand React Hook recipes](https://usehooks.com/) 
