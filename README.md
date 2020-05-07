@@ -2,6 +2,7 @@
 
 ### May 7, 2020 
 - [The Node.js best practices list (April 2020)](https://github.com/goldbergyoni/nodebestpractices) 
+- [An interactive git training meant to teach you how git works, not just which commands to execute](https://github.com/kzawadi/git_training) 
 ### May 5, 2020 
 - [CSS Layout ∙ Explore](https://csslayout.io/patterns/) 
 - [JavaScript single line of code](https://1loc.dev/) 
