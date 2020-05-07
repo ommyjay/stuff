@@ -6,6 +6,7 @@
 - [Flutter Taxi-App: Taxi booking app built using Flutter](https://github.com/kzawadi/Taxi-App) 
 - [safaricom - mpesa-dart: A dart wrapper around mpesa daraja api](https://github.com/kzawadi/mpesa-dart) 
 - [commitizen - npm](https://www.npmjs.com/package/commitizen) 
+- [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/#examples) 
 ### May 5, 2020 
 - [CSS Layout ∙ Explore](https://csslayout.io/patterns/) 
 - [JavaScript single line of code](https://1loc.dev/) 
