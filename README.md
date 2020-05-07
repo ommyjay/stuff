@@ -1,4 +1,7 @@
 # stuff
+
+### May 7, 2020 
+- [The Node.js best practices list (April 2020)](https://github.com/goldbergyoni/nodebestpractices) 
 ### May 5, 2020 
 - [CSS Layout ∙ Explore](https://csslayout.io/patterns/) 
 - [JavaScript single line of code](https://1loc.dev/) 
