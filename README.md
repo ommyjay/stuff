@@ -5,6 +5,7 @@
 - [How to Write Proposals That Will Win Over Freelance Clients (Free Download)](https://www.freecodecamp.org/news/free-web-design-proposal-template/) 
 - [Wait, what does your startup do?](http://itsthisforthat.com/) 
 - [Tronald Dump](https://www.tronalddump.io/) 
+- [The cost of JavaScript in 2019 · V8](https://v8.dev/blog/cost-of-javascript-2019#json) 
 ### May 7, 2020 
 - [The Node.js best practices list (April 2020)](https://github.com/goldbergyoni/nodebestpractices) 
 - [An interactive git training meant to teach you how git works, not just which commands to execute](https://github.com/kzawadi/git_training) 
