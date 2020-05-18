@@ -1,6 +1,9 @@
 # stuff
 
 
+
+### May 18, 2020 
+- [Painless PWA - DEV](https://dev.to/yne/painless-pwa-5hao) 
 ### May 12, 2020 
 - [How to Write Proposals That Will Win Over Freelance Clients (Free Download)](https://www.freecodecamp.org/news/free-web-design-proposal-template/) 
 - [Wait, what does your startup do?](http://itsthisforthat.com/) 
