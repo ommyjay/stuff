@@ -2,6 +2,9 @@
 
 
 
+
+### May 19, 2020 
+- [Design TinyURL and Instagram: system design interview tutorial - DEV Community 👩‍💻👨‍💻](https://dev.to/educative/design-tinyurl-and-instagram-system-design-interview-tutorial-35cf) 
 ### May 18, 2020 
 - [Painless PWA - DEV](https://dev.to/yne/painless-pwa-5hao) 
 - [New MongoDB Extension for VS Code - DEV](https://dev.to/aaronbassett/new-mongodb-extension-for-vs-code-47eb) 
