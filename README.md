@@ -3,6 +3,9 @@
 
 
 
+
+### May 20, 2020 
+- [Function binding (this)](https://javascript.info/bind) 
 ### May 19, 2020 
 - [Design TinyURL and Instagram: system design interview tutorial - DEV Community 👩‍💻👨‍💻](https://dev.to/educative/design-tinyurl-and-instagram-system-design-interview-tutorial-35cf) 
 ### May 18, 2020 
