@@ -13,6 +13,7 @@
 - [Meta Tags — Preview, Edit and Generate Meta Tags For Social ](https://metatags.io/) 
 - [Letter - HTML Newsleeteert](https://app.letter.so/try) 
 - [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/) 
+- [CSS Reference - A visual guide to CSS](https://cssreference.io/) 
 ### May 20, 2020 
 - [Function binding (this)](https://javascript.info/bind) 
 ### May 19, 2020 
