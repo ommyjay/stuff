@@ -11,6 +11,7 @@
 - [Appy Dev Diirectory](https://appy-dev.netlify.app/) 
 - [Gson - Google Sheets to JSON](https://gson.netlify.app/) 
 - [Meta Tags — Preview, Edit and Generate Meta Tags For Social ](https://metatags.io/) 
+- [Letter - HTML Newsleeteert](https://app.letter.so/try) 
 ### May 20, 2020 
 - [Function binding (this)](https://javascript.info/bind) 
 ### May 19, 2020 
