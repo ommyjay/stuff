@@ -4,6 +4,9 @@
 
 
 
+
+### May 21, 2020 
+- [The 10 Most Common Mistakes JavaScript Developers Make | Toptal](https://www.toptal.com/javascript/10-most-common-javascript-mistakes) 
 ### May 20, 2020 
 - [Function binding (this)](https://javascript.info/bind) 
 ### May 19, 2020 
