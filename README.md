@@ -5,6 +5,9 @@
 
 
 
+
+### May 22, 2020 
+- [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/) 
 ### May 21, 2020 
 - [The 10 Most Common Mistakes JavaScript Developers Make | Toptal](https://www.toptal.com/javascript/10-most-common-javascript-mistakes) 
 - [How to Hire a Great JavaScript Developer](https://www.toptal.com/javascript#hiring-guide) 
