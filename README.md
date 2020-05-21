@@ -14,6 +14,7 @@
 - [Letter - HTML Newsleeteert](https://app.letter.so/try) 
 - [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/) 
 - [CSS Reference - A visual guide to CSS](https://cssreference.io/) 
+- [LottieFiles - Free animation files built for Lottie](https://lottiefiles.com/) 
 ### May 20, 2020 
 - [Function binding (this)](https://javascript.info/bind) 
 ### May 19, 2020 
