@@ -9,6 +9,7 @@
 ### May 22, 2020 
 - [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/) 
 - [AnyAPI - Documentation and Test Consoles for Over 1400 Public APIs](https://any-api.com/) 
+- [Free Frontend Contents](https://freefrontend.com/) 
 ### May 21, 2020 
 - [The 10 Most Common Mistakes JavaScript Developers Make | Toptal](https://www.toptal.com/javascript/10-most-common-javascript-mistakes) 
 - [How to Hire a Great JavaScript Developer](https://www.toptal.com/javascript#hiring-guide) 
