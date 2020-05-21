@@ -20,6 +20,7 @@
 - [Twitter API without code — NoCodeAPI](https://nocodeapi.com/docs/twitter-search-and-timeline-nocode-api-docs) 
 - [Music Audio File Name Generator](https://webcode.tools/file-name-generator) 
 - [The Ultimate Website Code Generator](https://webcode.tools/) 
+- [Email Test Tool and Email Builder | PilotMail](https://www.pilotmail.io/) 
 ### May 20, 2020 
 - [Function binding (this)](https://javascript.info/bind) 
 ### May 19, 2020 
