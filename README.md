@@ -10,6 +10,7 @@
 - [How to Hire a Great JavaScript Developer](https://www.toptal.com/javascript#hiring-guide) 
 - [Appy Dev Diirectory](https://appy-dev.netlify.app/) 
 - [Gson - Google Sheets to JSON](https://gson.netlify.app/) 
+- [Meta Tags — Preview, Edit and Generate Meta Tags For Social ](https://metatags.io/) 
 ### May 20, 2020 
 - [Function binding (this)](https://javascript.info/bind) 
 ### May 19, 2020 
