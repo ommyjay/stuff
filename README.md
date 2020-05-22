@@ -11,6 +11,7 @@
 - [AnyAPI - Documentation and Test Consoles for Over 1400 Public APIs](https://any-api.com/) 
 - [Free Frontend Contents](https://freefrontend.com/) 
 - [These free tools for developers are 🔥🔥🔥 - DEV](https://dev.to/fayazara/this-free-tools-for-developers-are-45p3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
+- [ImgBB — Free Image Hosting](https://imgbb.com/) 
 ### May 21, 2020 
 - [The 10 Most Common Mistakes JavaScript Developers Make | Toptal](https://www.toptal.com/javascript/10-most-common-javascript-mistakes) 
 - [How to Hire a Great JavaScript Developer](https://www.toptal.com/javascript#hiring-guide) 
