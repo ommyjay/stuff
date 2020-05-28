@@ -11,6 +11,7 @@
 
 ### May 28, 2020 
 - [Money is human happiness in the abstract. - philosiblog](https://philosiblog.com/2016/07/18/money-is-human-happiness-in-the-abstract/) 
+- [ philosiblog](https://philosiblog.com/2016/07/18/money-is-human-happiness-in-the-abstract/) 
 ### May 27, 2020 
 - [NPE Blog - A small team experimenting with new products and experiences.](https://npe.fb.com/) 
 ### May 24, 2020 
