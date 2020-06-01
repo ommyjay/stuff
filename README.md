@@ -9,6 +9,9 @@
 
 
 
+
+### June 1, 2020 
+- [Node Beyond the Basics - Repo](https://github.com/jscomplete/book-node-beyond-basics) 
 ### May 28, 2020 
 - [Money is human happiness in the abstract. - philosiblog](https://philosiblog.com/2016/07/18/money-is-human-happiness-in-the-abstract/) 
 - [ philosiblog](https://philosiblog.com/2016/07/18/money-is-human-happiness-in-the-abstract/) 
