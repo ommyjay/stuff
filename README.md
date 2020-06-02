@@ -10,6 +10,9 @@
 
 
 
+
+### June 2, 2020 
+- [List of top Open Source alternatives to popular products. - DEV Community 👩‍💻👨‍💻](https://dev.to/fayazara/top-open-source-alternatives-to-popular-products-stop-paying-16jn) 
 ### June 1, 2020 
 - [Node Beyond the Basics - Repo](https://github.com/jscomplete/book-node-beyond-basics) 
 ### May 28, 2020 
