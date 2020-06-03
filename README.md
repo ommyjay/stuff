@@ -17,6 +17,7 @@
 - [Running cron jobs on AWS Lambda with Scheduled Events](https://medium.com/blogfoster-engineering/running-cron-jobs-on-aws-lambda-with-scheduled-events-e8fe38686e20) 
 - [Creating, monitoring, and testing cron jobs on AWS](https://www.serverless.com/blog/cron-jobs-on-aws/) 
 - [Socket.io for simple chatting app - DEV Community 👩‍💻👨‍💻](https://dev.to/moz5691/socketio-for-simple-chatting---1k8n) 
+- [Node.js WebSocket Tutorial - Real-Time Chat Room using Multiple Clients - DEV Community 👩‍💻👨‍💻](https://dev.to/karlhadwen/node-js-websocket-tutorial-real-time-chat-room-using-multiple-clients-24ad) 
 ### June 2, 2020 
 - [List of top Open Source alternatives to popular products. - DEV Community 👩‍💻👨‍💻](https://dev.to/fayazara/top-open-source-alternatives-to-popular-products-stop-paying-16jn) 
 ### June 1, 2020 
