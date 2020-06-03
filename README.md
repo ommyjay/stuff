@@ -11,6 +11,9 @@
 
 
 
+
+### June 3, 2020 
+- [Move Your Cron Jobs to Serverless in 3 Steps – The New Stack](https://thenewstack.io/move-your-cron-jobs-to-serverless-in-3-steps/) 
 ### June 2, 2020 
 - [List of top Open Source alternatives to popular products. - DEV Community 👩‍💻👨‍💻](https://dev.to/fayazara/top-open-source-alternatives-to-popular-products-stop-paying-16jn) 
 ### June 1, 2020 
