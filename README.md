@@ -12,6 +12,9 @@
 
 
 
+
+### June 4, 2020 
+- [Overreacted — A blog by Dan Abramov](https://overreacted.io/) 
 ### June 3, 2020 
 - [Move Your Cron Jobs to Serverless in 3 Steps – The New Stack](https://thenewstack.io/move-your-cron-jobs-to-serverless-in-3-steps/) 
 - [Running cron jobs on AWS Lambda with Scheduled Events](https://medium.com/blogfoster-engineering/running-cron-jobs-on-aws-lambda-with-scheduled-events-e8fe38686e20) 
