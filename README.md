@@ -18,6 +18,7 @@
 - [How to manage your dotfiles with git - Touts - Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) 
 - [Git How To: Guided Git Tutorial](https://githowto.com/) 
 - [How To Create A Free Personal VPN In The Cloud Using EC2 & OpenVPN](https://medium.com/@tatianaensslin/how-to-create-a-free-personal-vpn-in-the-cloud-using-ec2-openvpn-626c40e96dab) 
+- [How to Fix The "Connection reset by peer" SSH Error](https://phoenixnap.com/kb/fix-connection-reset-by-peer-ssh-error#:~:text=The%20%E2%80%9Cssh_exchange_identification%3A%20read%3A%20Connection%20reset%20by%20peer%E2%80%9D%20error,temporary%20outage%20or%20connectivity%20issue.) 
 ### June 4, 2020 
 - [Overreacted — A blog by Dan Abramov](https://overreacted.io/) 
 ### June 3, 2020 
