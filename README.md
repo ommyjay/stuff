@@ -13,6 +13,9 @@
 
 
 
+
+### June 8, 2020 
+- [How to manage your dotfiles with git - Touts - Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) 
 ### June 4, 2020 
 - [Overreacted — A blog by Dan Abramov](https://overreacted.io/) 
 ### June 3, 2020 
