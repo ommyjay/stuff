@@ -17,6 +17,7 @@
 ### June 8, 2020 
 - [How to manage your dotfiles with git - Touts - Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) 
 - [Git How To: Guided Git Tutorial](https://githowto.com/) 
+- [How To Create A Free Personal VPN In The Cloud Using EC2 & OpenVPN](https://medium.com/@tatianaensslin/how-to-create-a-free-personal-vpn-in-the-cloud-using-ec2-openvpn-626c40e96dab) 
 ### June 4, 2020 
 - [Overreacted — A blog by Dan Abramov](https://overreacted.io/) 
 ### June 3, 2020 
