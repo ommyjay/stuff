@@ -24,6 +24,7 @@
 - [How to wrap a REST API with GraphQL - A 3-step tutorial | Prisma](https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d) 
 - [Wrapping REST with GraphQL - Jon Wong - YouTube](https://www.youtube.com/watch?v=iW4il6wUlvs) 
 - [GraphQL SF 2/15/18 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vRoW7FdRjxJ8wVKCK1NTkdmsSIemGRbUgz7YjR8dYSEC2MeZFK2UyjDC8j48P-ra8v8efj-rpbXVAw3/pub?start=false&loop=false&delayms=3000&slide=id.p) 
+- [Advice from a GraphQL Expert](https://www.netlify.com/blog/2020/01/21/advice-from-a-graphql-expert/) 
 ### June 8, 2020 
 - [How to manage your dotfiles with git - Touts - Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) 
 - [Git How To: Guided Git Tutorial](https://githowto.com/) 
