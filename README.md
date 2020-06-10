@@ -21,6 +21,7 @@
 - [Quick Tips for PR Approval Clicks! - Cara Esten Hurtle - Medium](https://medium.com/@esten/quick-tips-for-pr-approval-clicks-f0496fa46187) 
 - [Writing pull requests your coworkers might enjoy reading](https://medium.com/@greenberg/writing-pull-requests-your-coworkers-might-enjoy-reading-9d0307e93da3) 
 - [The Five Amazing Exercises To Elevate Your Creative Thinking Powers](https://medium.com/@Barry.Davret/the-five-amazing-exercises-to-elevate-your-creative-thinking-powers-d95d15125bad) 
+- [How to wrap a REST API with GraphQL - A 3-step tutorial | Prisma](https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d) 
 ### June 8, 2020 
 - [How to manage your dotfiles with git - Touts - Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) 
 - [Git How To: Guided Git Tutorial](https://githowto.com/) 
