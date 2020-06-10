@@ -14,6 +14,9 @@
 
 
 
+
+### June 10, 2020 
+- [Animated screen captures | LICEcap](https://www.cockos.com/licecap/) 
 ### June 8, 2020 
 - [How to manage your dotfiles with git - Touts - Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) 
 - [Git How To: Guided Git Tutorial](https://githowto.com/) 
