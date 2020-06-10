@@ -18,6 +18,7 @@
 ### June 10, 2020 
 - [Animated screen captures | LICEcap](https://www.cockos.com/licecap/) 
 - [The Art of Humanizing Pull Requests (PR’s) - HackerNoon.com - Medium](https://medium.com/hackernoon/the-art-of-humanizing-pull-requests-prs-b520588eb345) 
+- [Quick Tips for PR Approval Clicks! - Cara Esten Hurtle - Medium](https://medium.com/@esten/quick-tips-for-pr-approval-clicks-f0496fa46187) 
 ### June 8, 2020 
 - [How to manage your dotfiles with git - Touts - Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b) 
 - [Git How To: Guided Git Tutorial](https://githowto.com/) 
