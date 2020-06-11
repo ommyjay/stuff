@@ -19,6 +19,7 @@
 ### June 11, 2020 
 - [Best of JavaScript Tools](https://bestofjs.org/) 
 - [PGP Key Generator](https://pgpkeygen.com/) 
+- [Online PGP Encrypt & Decrypt - PGP Key Generator Tool - Stefan Dosdal](https://sela.io/pgp-en/#sela-encrypt) 
 ### June 10, 2020 
 - [Animated screen captures | LICEcap](https://www.cockos.com/licecap/) 
 - [The Art of Humanizing Pull Requests (PR’s) - HackerNoon.com - Medium](https://medium.com/hackernoon/the-art-of-humanizing-pull-requests-prs-b520588eb345) 
