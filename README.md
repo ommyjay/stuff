@@ -16,6 +16,9 @@
 
 
 
+
+### June 15, 2020 
+- [How to Create Flawless React Animations with Lottie - DEV Community 👩‍💻👨‍💻](https://dev.to/codeartistryio/how-to-create-flawless-react-animations-with-lottie-2o4e) 
 ### June 11, 2020 
 - [Best of JavaScript Tools](https://bestofjs.org/) 
 - [PGP Key Generator](https://pgpkeygen.com/) 
