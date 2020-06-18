@@ -17,6 +17,9 @@
 
 
 
+
+### June 18, 2020 
+- [HTTRiRi](https://www.httriri.com/) 
 ### June 15, 2020 
 - [How to Create Flawless React Animations with Lottie - DEV Community 👩‍💻👨‍💻](https://dev.to/codeartistryio/how-to-create-flawless-react-animations-with-lottie-2o4e) 
 - [The Node.js best practices list (June 2020)](https://github.com/goldbergyoni/nodebestpractices) 
