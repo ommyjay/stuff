@@ -18,6 +18,9 @@
 
 
 
+
+### June 20, 2020 
+- [Best GitHub Repos for Web Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/sayanide/best-github-repos-for-web-developers-9id) 
 ### June 18, 2020 
 - [HTTRiRi](https://www.httriri.com/) 
 - [HTTRiRi : Explore HTTP status codes with this collection of Rihanna GIFs](https://www.httriri.com/) 
