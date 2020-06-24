@@ -19,6 +19,9 @@
 
 
 
+
+### June 24, 2020 
+- [Dear engineers, this is a marathon and not a sprint so take care | Marios Fakiolas](https://mariosfakiolas.com/blog/dear-engineers-this-is-a-marathon-and-not-a-sprint-so-take-care/?utm_sq=gg12aftbsk) 
 ### June 20, 2020 
 - [Best GitHub Repos for Web Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/sayanide/best-github-repos-for-web-developers-9id) 
 ### June 18, 2020 
