@@ -23,6 +23,7 @@
 
 ### June 27, 2020 
 - [23 Top Tips to Become a Better Software Engineer - DEV Community 👩‍💻👨‍💻](https://dev.to/biz84/23-top-tips-to-become-a-better-software-engineer-5hga) 
+- [Use Flutter to Make an App for Mobile, Web, and Desktop - All with One Codebase](https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/) 
 ### June 24, 2020 
 - [Dear engineers, this is a marathon and not a sprint so take care | Marios Fakiolas](https://mariosfakiolas.com/blog/dear-engineers-this-is-a-marathon-and-not-a-sprint-so-take-care/?utm_sq=gg12aftbsk) 
 ### June 20, 2020 
