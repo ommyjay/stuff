@@ -25,6 +25,7 @@
 
 ### June 30, 2020 
 - [Dev Challenges](https://devchallenges.io/challenges) 
+- [6 Tools You Can Use to Check for Vulnerabilities in Node.js](https://www.freecodecamp.org/news/6-tools-you-can-use-to-check-for-vulnerabilities-in-node-js/) 
 ### June 29, 2020 
 - [How to Use JSON Data with PHP or JavaScript | Tania Rascia](https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/) 
 ### June 27, 2020 
