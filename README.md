@@ -23,6 +23,9 @@
 
 
 
+
+### July 2, 2020 
+- [WooCommerce: Get Order Info (total, items, etc) From $order Object](https://www.businessbloomer.com/woocommerce-easily-get-order-info-total-items-etc-from-order-object/) 
 ### June 30, 2020 
 - [Dev Challenges](https://devchallenges.io/challenges) 
 - [6 Tools You Can Use to Check for Vulnerabilities in Node.js](https://www.freecodecamp.org/news/6-tools-you-can-use-to-check-for-vulnerabilities-in-node-js/) 
