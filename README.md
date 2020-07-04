@@ -24,6 +24,9 @@
 
 
 
+
+### July 4, 2020 
+- [How to Debug a Node.js Application with VSCode, Docker, and your Terminal](https://www.freecodecamp.org/news/node-js-debugging/) 
 ### July 2, 2020 
 - [WooCommerce: Get Order Info (total, items, etc) From $order Object](https://www.businessbloomer.com/woocommerce-easily-get-order-info-total-items-etc-from-order-object/) 
 ### June 30, 2020 
