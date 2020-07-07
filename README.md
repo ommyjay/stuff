@@ -26,6 +26,9 @@
 
 
 
+
+### July 7, 2020 
+- [Understanding the JavaScript Spread Operator — Advanced Uses](https://medium.com/better-programming/understanding-the-javascript-spread-operator-from-beginner-to-expert-part-2-1ec1808d015e) 
 ### July 6, 2020 
 - [Input Add-ons — Solved by Flexbox — Cleaner, hack-free CSS](https://philipwalton.github.io/solved-by-flexbox/demos/input-add-ons/) 
 ### July 4, 2020 
