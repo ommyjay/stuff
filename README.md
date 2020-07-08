@@ -30,6 +30,7 @@
 
 ### July 8, 2020 
 - [Authenticating Users with Angular and Netlify Identity](https://www.netlify.com/blog/2020/07/07/authenticating-users-with-angular-and-netlify-identity/?utm_source=twitter&utm_medium=angular-identity-tzm&utm_campaign=devex) 
+- [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/) 
 ### July 7, 2020 
 - [Understanding the JavaScript Spread Operator — Advanced Uses](https://medium.com/better-programming/understanding-the-javascript-spread-operator-from-beginner-to-expert-part-2-1ec1808d015e) 
 ### July 6, 2020 
