@@ -28,6 +28,9 @@
 
 
 
+
+### July 9, 2020 
+- [Use Flutter to Make an App for Mobile, Web, and Desktop - All with One Codebase](https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/) 
 ### July 8, 2020 
 - [Authenticating Users with Angular and Netlify Identity](https://www.netlify.com/blog/2020/07/07/authenticating-users-with-angular-and-netlify-identity/?utm_source=twitter&utm_medium=angular-identity-tzm&utm_campaign=devex) 
 - [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/) 
