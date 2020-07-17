@@ -30,6 +30,9 @@
 
 
 
+
+### July 17, 2020 
+- [Send data between tabs with JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/dcodeyt/send-data-between-tabs-with-javascript-2oa?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### July 14, 2020 
 - [My Git Cheatsheet](https://gist.github.com/Nilpo/4098d22279ff317a5974a65aff70ab85) 
 ### July 9, 2020 
