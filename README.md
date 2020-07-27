@@ -32,6 +32,9 @@
 
 
 
+
+### July 27, 2020 
+- [Chrome DevTools Copy Object](https://scottwhittaker.net/chrome-devtools/2016/02/29/chrome-devtools-copy-object.html) 
 ### July 24, 2020 
 - [localForage](https://localforage.github.io/localForage/) 
 ### July 17, 2020 
