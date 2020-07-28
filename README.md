@@ -33,6 +33,9 @@
 
 
 
+
+### July 28, 2020 
+- [Git Reset](https://scottwhittaker.net/posts/git-reset/) 
 ### July 27, 2020 
 - [Chrome DevTools Copy Object](https://scottwhittaker.net/chrome-devtools/2016/02/29/chrome-devtools-copy-object.html) 
 - [Border Radius Generator](https://css-border-radius-generator.netlify.app/) 
