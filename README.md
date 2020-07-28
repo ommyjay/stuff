@@ -36,6 +36,7 @@
 
 ### July 28, 2020 
 - [Git Reset](https://scottwhittaker.net/posts/git-reset/) 
+- [Flexbox and text truncation](https://scottwhittaker.net/flexbox/2017/02/05/flexbox-and-text-truncation.html) 
 ### July 27, 2020 
 - [Chrome DevTools Copy Object](https://scottwhittaker.net/chrome-devtools/2016/02/29/chrome-devtools-copy-object.html) 
 - [Border Radius Generator](https://css-border-radius-generator.netlify.app/) 
