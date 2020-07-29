@@ -34,6 +34,9 @@
 
 
 
+
+### July 29, 2020 
+- [Flavio Copes](https://flaviocopes.com/) 
 ### July 28, 2020 
 - [Git Reset](https://scottwhittaker.net/posts/git-reset/) 
 - [Flexbox and text truncation](https://scottwhittaker.net/flexbox/2017/02/05/flexbox-and-text-truncation.html) 
