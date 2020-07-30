@@ -35,6 +35,9 @@
 
 
 
+
+### July 30, 2020 
+- [How to Easily Move WordPress to a New Domain (without Losing SEO)](https://www.wpbeginner.com/wp-tutorials/how-to-properly-move-wordpress-to-a-new-domain-without-losing-seo/) 
 ### July 29, 2020 
 - [Flavio Copes](https://flaviocopes.com/) 
 ### July 28, 2020 
