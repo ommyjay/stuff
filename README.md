@@ -39,6 +39,7 @@
 
 ### August 3, 2020 
 - [Quick, Pretty and Easy Maintenance Page using Cloudflare Workers & Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/adinhodovic/quick-pretty-and-easy-maintenance-page-using-cloudflare-workers-terraform-46ob) 
+- [The React + GraphQL 2020 Crash Course](https://www.freecodecamp.org/news/the-react-graphql-2020-crash-course/) 
 ### July 30, 2020 
 - [How to Easily Move WordPress to a New Domain (without Losing SEO)](https://www.wpbeginner.com/wp-tutorials/how-to-properly-move-wordpress-to-a-new-domain-without-losing-seo/) 
 ### July 29, 2020 
