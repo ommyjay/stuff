@@ -37,6 +37,9 @@
 
 
 
+
+### August 4, 2020 
+- [Get URL and URL Parts in JavaScript | CSS-Tricks](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/) 
 ### August 3, 2020 
 - [Quick, Pretty and Easy Maintenance Page using Cloudflare Workers & Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/adinhodovic/quick-pretty-and-easy-maintenance-page-using-cloudflare-workers-terraform-46ob) 
 - [The React + GraphQL 2020 Crash Course](https://www.freecodecamp.org/news/the-react-graphql-2020-crash-course/) 
