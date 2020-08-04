@@ -42,6 +42,7 @@
 - [Get URL and URL Parts in JavaScript | CSS-Tricks](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/) 
 - [code submissions, part two - Umar Hansa](https://umaar.com/blog/my-code-exercise-submissions-part-2/) 
 - [Open Source Code by Umar Hansa](https://umaar.com/code/) 
+- [Understanding Arrow Functions in JavaScript | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-arrow-functions-in-javascript) 
 ### August 3, 2020 
 - [Quick, Pretty and Easy Maintenance Page using Cloudflare Workers & Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/adinhodovic/quick-pretty-and-easy-maintenance-page-using-cloudflare-workers-terraform-46ob) 
 - [The React + GraphQL 2020 Crash Course](https://www.freecodecamp.org/news/the-react-graphql-2020-crash-course/) 
