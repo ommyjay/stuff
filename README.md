@@ -38,6 +38,9 @@
 
 
 
+
+### August 11, 2020 
+- [Simple automated GIT Deployment using Hooks · GitHub](https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa) 
 ### August 4, 2020 
 - [Get URL and URL Parts in JavaScript | CSS-Tricks](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/) 
 - [code submissions, part two - Umar Hansa](https://umaar.com/blog/my-code-exercise-submissions-part-2/) 
