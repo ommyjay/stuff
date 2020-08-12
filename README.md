@@ -40,6 +40,9 @@
 
 
 
+
+### August 13, 2020 
+- [SNAT DNAT (duplicate subnets) - Linux (server) - Tek-Tips](https://www.tek-tips.com/viewthread.cfm?qid=1626333) 
 ### August 12, 2020 
 - [A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic | Daniel Miessler](https://danielmiessler.com/study/tcpdump/) 
 ### August 11, 2020 
