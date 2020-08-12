@@ -39,6 +39,9 @@
 
 
 
+
+### August 12, 2020 
+- [A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic | Daniel Miessler](https://danielmiessler.com/study/tcpdump/) 
 ### August 11, 2020 
 - [Simple automated GIT Deployment using Hooks · GitHub](https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa) 
 ### August 4, 2020 
