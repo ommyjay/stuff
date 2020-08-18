@@ -41,6 +41,9 @@
 
 
 
+
+### August 18, 2020 
+- [VPN — IPsec — Troubleshooting IPsec VPNs | pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/vpn/ipsec/ipsec-troubleshooting.html) 
 ### August 13, 2020 
 - [SNAT DNAT (duplicate subnets) - Linux (server) - Tek-Tips](https://www.tek-tips.com/viewthread.cfm?qid=1626333) 
 ### August 12, 2020 
