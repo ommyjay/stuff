@@ -42,6 +42,9 @@
 
 
 
+
+### August 26, 2020 
+- [Automatically backup a MongoDB database to S3 using mongodump, tar, and awscli (Ubuntu 14.04 LTS) · GitHub](https://gist.github.com/eladnava/96bd9771cd2e01fb4427230563991c8d) 
 ### August 18, 2020 
 - [VPN — IPsec — Troubleshooting IPsec VPNs | pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/vpn/ipsec/ipsec-troubleshooting.html) 
 ### August 13, 2020 
