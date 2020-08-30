@@ -49,6 +49,7 @@
 - [Rutik Wankhade Blog](https://rutikw.now.sh/) 
 - [Apihouse: Collective list of free APIs](https://apihouse.now.sh/) 
 - [Awesome-talks: A list of my favourite talks by some awesome people that will make you feel awesome](https://github.com/rutikwankhade/Awesome-talks) 
+- [HTML elements can be editable](https://h.daily-dev-tips.com/did-you-know-html-elements-can-be-editable) 
 ### August 29, 2020 
 - [Freeing disk space on your Linux server](https://maryrosecook.com/blog/post/freeing-disk-space-on-your-linux-server) 
 ### August 26, 2020 
