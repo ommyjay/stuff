@@ -47,6 +47,7 @@
 
 ### August 30, 2020 
 - [Rutik Wankhade Blog](https://rutikw.now.sh/) 
+- [Apihouse: Collective list of free APIs](https://apihouse.now.sh/) 
 ### August 29, 2020 
 - [Freeing disk space on your Linux server](https://maryrosecook.com/blog/post/freeing-disk-space-on-your-linux-server) 
 ### August 26, 2020 
