@@ -48,6 +48,7 @@
 
 ### September 1, 2020 
 - [How To Create a Self-Signed SSL Certificate for Nginx in Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04) 
+- [Create self-signed SSL certificate for Nginx](https://gist.github.com/jessedearing/2351836) 
 ### August 30, 2020 
 - [Rutik Wankhade Blog](https://rutikw.now.sh/) 
 - [Apihouse: Collective list of free APIs](https://apihouse.now.sh/) 
