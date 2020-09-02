@@ -46,6 +46,9 @@
 
 
 
+
+### September 2, 2020 
+- [Destructuring Nested Objects. I love destructuring. However, as I use… | by Ronald Chen | Medium](https://medium.com/@pyrolistical/destructuring-nested-objects-9dabdd01a3b8) 
 ### September 1, 2020 
 - [How To Create a Self-Signed SSL Certificate for Nginx in Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04) 
 - [Create self-signed SSL certificate for Nginx](https://gist.github.com/jessedearing/2351836) 
