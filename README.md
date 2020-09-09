@@ -50,6 +50,7 @@
 
 ### September 9, 2020 
 - [How to Set Up an IKEv2 VPN Server with StrongSwan on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ikev2-vpn-server-with-strongswan-on-ubuntu-16-04) 
+- [How to Set Up an IKEv2 VPN Server with StrongSwan on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ikev2-vpn-server-with-strongswan-on-ubuntu-16-04#step-5-%E2%80%94-configuring-vpn-authentication) 
 ### September 2, 2020 
 - [Destructuring Nested Objects. I love destructuring. However, as I use… | by Ronald Chen | Medium](https://medium.com/@pyrolistical/destructuring-nested-objects-9dabdd01a3b8) 
 - [Nested Destructuring Assignments in JavaScript | by Patrick Divine | Better Programming | Medium](https://medium.com/better-programming/javascript-nested-destructuring-assignment-de7348cfc04b) 
