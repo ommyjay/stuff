@@ -48,6 +48,9 @@
 
 
 
+
+### September 11, 2020 
+- [10 Extraordinary GitHub Repos for All Developers | by Simon Holdorf | Better Programming | Medium](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) 
 ### September 9, 2020 
 - [How to Set Up an IKEv2 VPN Server with StrongSwan on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ikev2-vpn-server-with-strongswan-on-ubuntu-16-04) 
 - [How to Set Up an IKEv2 VPN Server with StrongSwan on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ikev2-vpn-server-with-strongswan-on-ubuntu-16-04#step-5-%E2%80%94-configuring-vpn-authentication) 
