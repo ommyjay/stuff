@@ -49,6 +49,9 @@
 
 
 
+
+### September 14, 2020 
+- [4 Ways to Add External JavaScript Files in React | by Nivedha Duraisamy | Better Programming | Medium](https://medium.com/better-programming/4-ways-of-adding-external-js-files-in-reactjs-823f85de3668) 
 ### September 11, 2020 
 - [10 Extraordinary GitHub Repos for All Developers | by Simon Holdorf | Better Programming | Medium](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0) 
 ### September 9, 2020 
