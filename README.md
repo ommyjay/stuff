@@ -55,6 +55,7 @@
 - [Favorite JavaScript single line of code](https://1loc.dev/?ref=appydev-listing) 
 - [FormValidation • The best validation library for JavaScript](https://formvalidation.io/#features) 
 - [Wave Snippets | Create gorgeous animated snippets to share with the world.](https://www.wavesnippets.com/?ref=appydev-listing) 
+- [1on1-questions: Mega list of 1 on 1 meeting questions compiled from a variety to sources](https://github.com/VGraupera/1on1-questions) 
 ### September 14, 2020 
 - [4 Ways to Add External JavaScript Files in React | by Nivedha Duraisamy | Better Programming | Medium](https://medium.com/better-programming/4-ways-of-adding-external-js-files-in-reactjs-823f85de3668) 
 - [How do you explicitly set a new property on `window` in TypeScript?](https://www.thetopsites.net/article/50721364.shtml) 
