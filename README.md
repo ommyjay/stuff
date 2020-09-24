@@ -53,6 +53,7 @@
 
 ### September 24, 2020 
 - [Favorite JavaScript single line of code](https://1loc.dev/?ref=appydev-listing) 
+- [FormValidation • The best validation library for JavaScript](https://formvalidation.io/#features) 
 ### September 14, 2020 
 - [4 Ways to Add External JavaScript Files in React | by Nivedha Duraisamy | Better Programming | Medium](https://medium.com/better-programming/4-ways-of-adding-external-js-files-in-reactjs-823f85de3668) 
 - [How do you explicitly set a new property on `window` in TypeScript?](https://www.thetopsites.net/article/50721364.shtml) 
