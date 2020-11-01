@@ -54,6 +54,7 @@
 
 ### November 1, 2020 
 - [How To Git Stash Changes – devconnected](https://devconnected.com/how-to-git-stash-changes/) 
+- [Monitoring systemd services in realtime with Chronograf – devconnected](https://devconnected.com/monitoring-systemd-services-in-realtime-with-chronograf/) 
 ### September 24, 2020 
 - [Favorite JavaScript single line of code](https://1loc.dev/?ref=appydev-listing) 
 - [FormValidation • The best validation library for JavaScript](https://formvalidation.io/#features) 
