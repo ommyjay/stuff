@@ -52,6 +52,9 @@
 
 
 
+
+### November 5, 2020 
+- [How to Shorten JavaScript Conditionals with Short-Circuiting • Reed Barger](https://reedbarger.com/how-to-shorten-javascript-conditionals-with-short-circuiting/) 
 ### November 1, 2020 
 - [How To Git Stash Changes – devconnected](https://devconnected.com/how-to-git-stash-changes/) 
 - [Monitoring systemd services in realtime with Chronograf – devconnected](https://devconnected.com/monitoring-systemd-services-in-realtime-with-chronograf/) 
