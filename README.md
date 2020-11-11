@@ -54,6 +54,9 @@
 
 
 
+
+### November 11, 2020 
+- [Dev Resources](https://devresourc.es/) 
 ### November 8, 2020 
 - [Level up your JavaScript browser logs with these console.log() tips - DEV Community 👩‍💻👨‍💻](https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 - [Modern React apps with Hooks, Suspense, Context, and Firebase - Jeff Huleatt - React Day Berlin 2019](https://hero35.com/react-day-berlin/2019/modern-react-apps-with-hooks-suspense-context-and-firebase) 
