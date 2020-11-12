@@ -55,6 +55,9 @@
 
 
 
+
+### November 12, 2020 
+- [Blocking IPs with Nginx – DreamHost Knowledge Base](https://help.dreamhost.com/hc/en-us/articles/216456127-Blocking-IPs-with-Nginx) 
 ### November 11, 2020 
 - [Dev Resources](https://devresourc.es/) 
 - [How to Convert HTML Tables into Beautiful PDFs - DEV Community 👩‍💻👨‍💻](https://dev.to/thawkin3/how-to-convert-html-tables-into-beautiful-pdfs-1k08) 
