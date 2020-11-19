@@ -59,6 +59,7 @@
 
 ### November 19, 2020 
 - [An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.](https://github.com/Solido/awesome-flutter) 
+- [Flutter Layout Cheat Sheet. Do you need simple layout samples for… | by Tomek Polański | Flutter Community | Medium](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) 
 ### November 12, 2020 
 - [Blocking IPs with Nginx – DreamHost Knowledge Base](https://help.dreamhost.com/hc/en-us/articles/216456127-Blocking-IPs-with-Nginx) 
 ### November 11, 2020 
