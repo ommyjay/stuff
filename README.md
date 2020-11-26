@@ -57,6 +57,9 @@
 
 
 
+
+### November 26, 2020 
+- [React Hook Form - Simple React forms validation](https://react-hook-form.com/get-started) 
 ### November 19, 2020 
 - [An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.](https://github.com/Solido/awesome-flutter) 
 - [Flutter Layout Cheat Sheet. Do you need simple layout samples for… | by Tomek Polański | Flutter Community | Medium](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) 
