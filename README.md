@@ -58,6 +58,9 @@
 
 
 
+
+### November 27, 2020 
+- [Evil Insult API](https://evilinsult.com/generate_insult.php?lang=en&type=json) 
 ### November 26, 2020 
 - [React Hook Form - Simple React forms validation](https://react-hook-form.com/get-started) 
 - [Bored API](https://www.boredapi.com/) 
