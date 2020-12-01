@@ -59,6 +59,9 @@
 
 
 
+
+### December 1, 2020 
+- [API Security Best Practices - DEV Community 👩‍💻👨‍💻](https://dev.to/bearer/api-security-best-practices-3gjl) 
 ### November 27, 2020 
 - [Evil Insult API](https://evilinsult.com/generate_insult.php?lang=en&type=json) 
 - [Maps service | API | Mapbox](https://docs.mapbox.com/api/maps/) 
