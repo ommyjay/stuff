@@ -64,6 +64,7 @@
 - [API Security Best Practices - DEV Community 👩‍💻👨‍💻](https://dev.to/bearer/api-security-best-practices-3gjl) 
 - [Bye bye Postman ! Let's share your REST API calls in team, easily ! - DEV Community 👩‍💻👨‍💻](https://dev.to/monisnap/bye-bye-postman-let-s-share-your-rest-api-calls-in-team-easily-h6l) 
 - [generate-safe-id - npm](https://www.npmjs.com/package/generate-safe-id) 
+- [API Key | REST API Key Authentication Methods | JavaScript API Design](https://stoplight.io/blog/api-keys-best-practices-to-authenticate-apis/) 
 ### November 27, 2020 
 - [Evil Insult API](https://evilinsult.com/generate_insult.php?lang=en&type=json) 
 - [Maps service | API | Mapbox](https://docs.mapbox.com/api/maps/) 
