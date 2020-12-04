@@ -60,6 +60,9 @@
 
 
 
+
+### December 4, 2020 
+- [Typescript Interface Functions. This is how to declare function types… | by Jeff Butsch | Medium](https://medium.com/@jeffbutsch/typescript-interface-functions-c691a108e3f1) 
 ### December 1, 2020 
 - [API Security Best Practices - DEV Community 👩‍💻👨‍💻](https://dev.to/bearer/api-security-best-practices-3gjl) 
 - [Bye bye Postman ! Let's share your REST API calls in team, easily ! - DEV Community 👩‍💻👨‍💻](https://dev.to/monisnap/bye-bye-postman-let-s-share-your-rest-api-calls-in-team-easily-h6l) 
