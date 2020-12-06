@@ -61,6 +61,9 @@
 
 
 
+
+### December 6, 2020 
+- [Streamtape - Home](https://streamtape.com/) 
 ### December 4, 2020 
 - [Typescript Interface Functions. This is how to declare function types… | by Jeff Butsch | Medium](https://medium.com/@jeffbutsch/typescript-interface-functions-c691a108e3f1) 
 - [How To Test Your React Apps With The React Testing Library — Smashing Magazine](https://www.smashingmagazine.com/2020/07/react-apps-testing-library/) 
