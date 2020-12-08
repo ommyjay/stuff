@@ -62,6 +62,9 @@
 
 
 
+
+### December 8, 2020 
+- [TypeScript and React: Styles and CSS](https://fettblog.eu/typescript-react/styles/) 
 ### December 6, 2020 
 - [Streamtape - Home](https://streamtape.com/) 
 ### December 4, 2020 
