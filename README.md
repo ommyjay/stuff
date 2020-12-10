@@ -66,6 +66,7 @@
 
 ### December 10, 2020 
 - [Javascript: how to format numbers to locale with currency | by Paolo Ferretti | Medium](https://medium.com/@paoferretti/javascript-how-to-format-numbers-to-locale-with-currency-960b49434226) 
+- [Javascript: string primitives or String objects? | by Paolo Ferretti | Medium](https://medium.com/@paoferretti/javascript-string-primitives-or-string-objects-99489a68527d) 
 ### December 8, 2020 
 - [TypeScript and React: Styles and CSS](https://fettblog.eu/typescript-react/styles/) 
 ### December 6, 2020 
