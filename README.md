@@ -64,6 +64,9 @@
 
 
 
+
+### December 22, 2020 
+- [CSS selectors cheatsheet & details | by nana Jeon | Design & Code Repository | Medium](https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f) 
 ### December 10, 2020 
 - [Javascript: how to format numbers to locale with currency | by Paolo Ferretti | Medium](https://medium.com/@paoferretti/javascript-how-to-format-numbers-to-locale-with-currency-960b49434226) 
 - [Javascript: string primitives or String objects? | by Paolo Ferretti | Medium](https://medium.com/@paoferretti/javascript-string-primitives-or-string-objects-99489a68527d) 
