@@ -70,6 +70,7 @@
 - [state styles of card component ](https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108) 
 - [📚Web design reference. Collections updated 5 April 2019 | by nana Jeon | Design & Code Repository | Medium](https://medium.com/design-code-repository/web-design-reference-be36975478e5) 
 - [How to create React form with a single change event handler?](https://blog.greenroots.info/how-to-create-react-form-with-a-single-change-event-handler-ckizqh0yq00x7zks16wd1cxu1) 
+- [A Notification Timeline using React](https://blog.greenroots.info/a-notification-timeline-using-react-ckdb6o0yp00wy59s16les9bjn) 
 ### December 10, 2020 
 - [Javascript: how to format numbers to locale with currency | by Paolo Ferretti | Medium](https://medium.com/@paoferretti/javascript-how-to-format-numbers-to-locale-with-currency-960b49434226) 
 - [Javascript: string primitives or String objects? | by Paolo Ferretti | Medium](https://medium.com/@paoferretti/javascript-string-primitives-or-string-objects-99489a68527d) 
