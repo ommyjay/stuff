@@ -65,6 +65,9 @@
 
 
 
+
+### December 25, 2020 
+- [8 Awesome React Hooks - DEV Community 👩‍💻👨‍💻](https://dev.to/simonholdorf/8-awesome-react-hooks-2b14?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 ### December 22, 2020 
 - [CSS selectors cheatsheet & details | by nana Jeon | Design & Code Repository | Medium](https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f) 
 - [state styles of card component ](https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108) 
