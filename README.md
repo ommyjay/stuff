@@ -69,6 +69,7 @@
 
 ### December 31, 2020 
 - [Testing Recipes – React](https://reactjs.org/docs/testing-recipes.html) 
+- [Example | Testing Library](https://testing-library.com/docs/react-testing-library/example-intro) 
 ### December 25, 2020 
 - [8 Awesome React Hooks - DEV Community 👩‍💻👨‍💻](https://dev.to/simonholdorf/8-awesome-react-hooks-2b14?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 - [Introduction to Framer Motion - DEV Community 👩‍💻👨‍💻](https://dev.to/tracycss/introduction-to-framer-motion-1jdl) 
