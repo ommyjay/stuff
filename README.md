@@ -75,6 +75,7 @@
 - [8 neat Javascript tricks you didn't know in 4 minutes. - DEV Community 👩‍💻👨‍💻](https://dev.to/blessingartcreator/8-useful-javascript-tricks-you-didn-t-know-in-4-minutes-3npb) 
 - [twitter/hogan.js: A compiler for the Mustache templating language](https://github.com/twitter/hogan.js) 
 - [Hooks FAQ – React](https://reactjs.org/docs/hooks-faq.html) 
+- [Understanding the React useMemo Hook | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-usememo) 
 ### January 18, 2021 
 - [React Hooks cheat sheet: Unlock solutions to common problems - LogRocket Blog](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/) 
 - [Testing React Router with Jest. How to write unit tests that check if… | by Dunja Vesinger | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/testing-react-router-with-jest-bc13d367bad) 
