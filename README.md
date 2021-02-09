@@ -73,6 +73,7 @@
 
 ### February 9, 2021 
 - [All Netlify.toml & yml values](https://gist.github.com/DavidWells/43884f15aed7e4dcb3a6dad06430b756) 
+- [rendezvous with cassidoo • Buttondown](https://buttondown.email/cassidoo/archive) 
 ### February 2, 2021 
 - [JavaScript Array Explorer](https://arrayexplorer.netlify.app/) 
 - [8 neat Javascript tricks you didn't know in 4 minutes. - DEV Community 👩‍💻👨‍💻](https://dev.to/blessingartcreator/8-useful-javascript-tricks-you-didn-t-know-in-4-minutes-3npb) 
