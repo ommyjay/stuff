@@ -80,6 +80,7 @@
 - [The Pragmatic Engineer’s Developer Culture Test - The Pragmatic Engineer](https://blog.pragmaticengineer.com/the-developer-culture-test/) 
 - [tech-interview-handbook: 💯 Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook) 
 - [big-list-of-naughty-strings: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.](https://github.com/minimaxir/big-list-of-naughty-strings) 
+- [free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books) 
 ### February 9, 2021 
 - [All Netlify.toml & yml values](https://gist.github.com/DavidWells/43884f15aed7e4dcb3a6dad06430b756) 
 - [rendezvous with cassidoo • Buttondown](https://buttondown.email/cassidoo/archive) 
