@@ -76,6 +76,7 @@
 - [40 Best Quotes That Made Me a Developer | DevGlan](https://www.devglan.com/blog/best-developer-quotes) 
 - [Let's Learn Next.js! · Learn With Jason](https://www.learnwithjason.dev/let-s-learn-next-js) 
 - [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/#dont-stop-the-data-flow-in-optimizations) 
+- [Effective_Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) 
 ### February 9, 2021 
 - [All Netlify.toml & yml values](https://gist.github.com/DavidWells/43884f15aed7e4dcb3a6dad06430b756) 
 - [rendezvous with cassidoo • Buttondown](https://buttondown.email/cassidoo/archive) 
