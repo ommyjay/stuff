@@ -77,6 +77,7 @@
 - [Let's Learn Next.js! · Learn With Jason](https://www.learnwithjason.dev/let-s-learn-next-js) 
 - [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/#dont-stop-the-data-flow-in-optimizations) 
 - [Effective_Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) 
+- [The Pragmatic Engineer’s Developer Culture Test - The Pragmatic Engineer](https://blog.pragmaticengineer.com/the-developer-culture-test/) 
 ### February 9, 2021 
 - [All Netlify.toml & yml values](https://gist.github.com/DavidWells/43884f15aed7e4dcb3a6dad06430b756) 
 - [rendezvous with cassidoo • Buttondown](https://buttondown.email/cassidoo/archive) 
