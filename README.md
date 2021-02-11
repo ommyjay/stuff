@@ -72,6 +72,9 @@
 
 
 
+
+### February 11, 2021 
+- [Git - Cheat Sheet - DEV Community 👩‍💻👨‍💻](https://dev.to/usmslm102/git-cheat-sheet-4f5a) 
 ### February 10, 2021 
 - [40 Best Quotes That Made Me a Developer | DevGlan](https://www.devglan.com/blog/best-developer-quotes) 
 - [Let's Learn Next.js! · Learn With Jason](https://www.learnwithjason.dev/let-s-learn-next-js) 
