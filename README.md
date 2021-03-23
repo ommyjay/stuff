@@ -79,6 +79,9 @@
 
 
 
+
+### March 23, 2021 
+- [The FREE AWS Certified Solutions Architect Associate Study Course (275+ Videos!) 😱 - DEV Community 👩‍💻👨‍💻](https://dev.to/exampro/the-free-aws-certified-solutions-architect-associate-study-course-275-videos-3412) 
 ### March 20, 2021 
 - [5 Must-Know JavaScript Features That You Might Not Know | by Gourav Kajal | Mar, 2021 | Better Programming](https://betterprogramming.pub/5-must-know-javascript-features-that-you-might-not-know-cc957f7293fc) 
 ### March 18, 2021 
