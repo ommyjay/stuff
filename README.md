@@ -84,6 +84,7 @@
 ### March 24, 2021 
 - [Make a README](https://www.makeareadme.com/) 
 - [kefranabg/readme-md-generator: 📄 CLI that generates beautiful README.md files](https://github.com/kefranabg/readme-md-generator) 
+- [Shields.io: Quality metadata badges for open source projects](https://shields.io/category/license) 
 ### March 23, 2021 
 - [The FREE AWS Certified Solutions Architect Associate Study Course (275+ Videos!) 😱 - DEV Community 👩‍💻👨‍💻](https://dev.to/exampro/the-free-aws-certified-solutions-architect-associate-study-course-275-videos-3412) 
 ### March 20, 2021 
