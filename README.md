@@ -82,6 +82,9 @@
 
 
 
+
+### March 29, 2021 
+- [NestJS API 04 Errors and Logging - YouTube](https://www.youtube.com/watch?v=XP_gONOksuM&ab_channel=KelvinMai) 
 ### March 25, 2021 
 - [A Grunt workflow for designing and testing responsive HTML email templates with SCSS.](https://github.com/leemunroe/grunt-email-workflow) 
 - [Inline, send and test HTML email templates | Postdrop](https://app.postdrop.io/) 
