@@ -86,6 +86,7 @@
 ### March 29, 2021 
 - [NestJS API 04 Errors and Logging - YouTube](https://www.youtube.com/watch?v=XP_gONOksuM&ab_channel=KelvinMai) 
 - [Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express - YouTube](https://www.youtube.com/watch?v=CnailTcJV_U&ab_channel=DevMastery) 
+- [How to use TDD to build a web app that queries a REST API with Jest and Puppeteer - YouTube](https://www.youtube.com/watch?v=Hw522TDxMZk&ab_channel=DevMastery) 
 ### March 25, 2021 
 - [A Grunt workflow for designing and testing responsive HTML email templates with SCSS.](https://github.com/leemunroe/grunt-email-workflow) 
 - [Inline, send and test HTML email templates | Postdrop](https://app.postdrop.io/) 
