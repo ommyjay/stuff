@@ -84,6 +84,9 @@
 
 
 
+
+### April 9, 2021 
+- [React Query Tutorial #5 - Pagination - YouTube](https://www.youtube.com/watch?v=K8kgh5C3WP8&ab_channel=TheNetNinja) 
 ### April 8, 2021 
 - [Git Cherry Pick - Select specific commits to merge | by Carlos Fernando Arboleda Garcés | Better Programming](https://betterprogramming.pub/git-cherry-pick-selecting-specific-commits-to-merge-f1bf245e052a) 
 ### March 29, 2021 
