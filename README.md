@@ -88,6 +88,7 @@
 
 ### April 11, 2021 
 - [Function currying and it’s variations | by Vasanth Bhat | Mar, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/javascript-function-currying-and-its-variations-b8ad620397bf) 
+- [How to Test Your Microservices to Make Sure They Are Production Ready](https://www.freecodecamp.org/news/testing-microservices-are-they-production-ready-2/) 
 ### April 9, 2021 
 - [React Query Tutorial #5 - Pagination - YouTube](https://www.youtube.com/watch?v=K8kgh5C3WP8&ab_channel=TheNetNinja) 
 ### April 8, 2021 
