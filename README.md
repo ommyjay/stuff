@@ -91,6 +91,7 @@
 - [How to Test Your Microservices to Make Sure They Are Production Ready](https://www.freecodecamp.org/news/testing-microservices-are-they-production-ready-2/) 
 - [Part 1: Introduction to Microservices and Transporters - DEV Community](https://dev.to/nestjs/integrate-nestjs-with-external-services-using-microservice-transporters-part-1-p3) 
 - [Part 3: Techniques for Application Integration with NestJS and NATS - DEV Community](https://dev.to/nestjs/integrate-nestjs-with-external-services-using-microservice-transporters-part-3-4m20) 
+- [tmux Cheat Sheet](https://gist.github.com/michaellihs/b6d46fa460fa5e429ea7ee5ff8794b96) 
 ### April 9, 2021 
 - [React Query Tutorial #5 - Pagination - YouTube](https://www.youtube.com/watch?v=K8kgh5C3WP8&ab_channel=TheNetNinja) 
 ### April 8, 2021 
