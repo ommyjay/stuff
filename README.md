@@ -90,6 +90,7 @@
 
 ### April 14, 2021 
 - [Scale Your Microservices with an Easy Message Queue on Redis | Hacker Noon](https://hackernoon.com/scale-your-microservices-with-an-easy-message-queue-on-redis-e92n2gk3) 
+- [4 tips for context switching in Git | Opensource.com](https://opensource.com/article/21/4/context-switching-git) 
 ### April 12, 2021 
 - [#1 Mongoose - deep collections connect with populate - YouTube](https://www.youtube.com/watch?v=c2oWH1g2Fng&ab_channel=ViktorKjartansson) 
 ### April 11, 2021 
