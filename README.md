@@ -91,6 +91,7 @@
 
 ### April 16, 2021 
 - [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along | by Dan Fabulich | Code Red](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1) 
+- [A react component for adding a nice typewriter effect](https://reactjsexample.com/a-react-component-for-adding-a-nice-typewriter-effect/) 
 ### April 14, 2021 
 - [Scale Your Microservices with an Easy Message Queue on Redis | Hacker Noon](https://hackernoon.com/scale-your-microservices-with-an-easy-message-queue-on-redis-e92n2gk3) 
 - [4 tips for context switching in Git | Opensource.com](https://opensource.com/article/21/4/context-switching-git) 
