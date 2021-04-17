@@ -89,6 +89,9 @@
 
 
 
+
+### April 17, 2021 
+- [How to build an app, get acquired by GitHub, buy an app back from GitHub and then sell it again](https://www.johnnunemaker.com/speakerdeck/) 
 ### April 16, 2021 
 - [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along | by Dan Fabulich | Code Red](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1) 
 - [A react component for adding a nice typewriter effect](https://reactjsexample.com/a-react-component-for-adding-a-nice-typewriter-effect/) 
