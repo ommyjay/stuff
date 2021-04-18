@@ -91,6 +91,9 @@
 
 
 
+
+### April 19, 2021 
+- [Deploy Nest JS App With Postgres in VPS | by Farhaz Alam | The Startup | Medium](https://medium.com/swlh/deploy-nest-js-app-with-postgres-in-vps-e1ce4abd2cad) 
 ### April 18, 2021 
 - [Create a NATS cluster](https://docs.bitnami.com/aws/infrastructure/nats/administration/create-cluster/) 
 - [Create PDF files using React](https://reactjsexample.com/create-pdf-files-using-react/) 
