@@ -90,6 +90,9 @@
 
 
 
+
+### April 18, 2021 
+- [Create a NATS cluster](https://docs.bitnami.com/aws/infrastructure/nats/administration/create-cluster/) 
 ### April 17, 2021 
 - [How to build an app, get acquired by GitHub, buy an app back from GitHub and then sell it again](https://www.johnnunemaker.com/speakerdeck/) 
 - [Speaker Deck - Share Presentations without the Mess](https://speakerdeck.com/) 
