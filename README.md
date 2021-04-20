@@ -92,6 +92,9 @@
 
 
 
+
+### April 20, 2021 
+- [Step by step breakdown of /dev/null | by Jorge Yau | Medium](https://medium.com/@codenameyau/step-by-step-breakdown-of-dev-null-a0f516f53158) 
 ### April 19, 2021 
 - [Deploy Nest JS App With Postgres in VPS | by Farhaz Alam | The Startup | Medium](https://medium.com/swlh/deploy-nest-js-app-with-postgres-in-vps-e1ce4abd2cad) 
 ### April 18, 2021 
