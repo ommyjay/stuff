@@ -96,6 +96,7 @@
 
 ### April 21, 2021 
 - [Bash CheatSheet for UNIX Systems --> UPDATED VERSION --> https://github.com/LeCoupa/awesome-cheatsheets](https://gist.github.com/LeCoupa/122b12050f5fb267e75f) 
+- [Bash scripting cheatsheet](https://devhints.io/bash) 
 ### April 20, 2021 
 - [Step by step breakdown of /dev/null | by Jorge Yau | Medium](https://medium.com/@codenameyau/step-by-step-breakdown-of-dev-null-a0f516f53158) 
 ### April 19, 2021 
