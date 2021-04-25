@@ -96,6 +96,9 @@
 
 
 
+
+### April 25, 2021 
+- [Making two-factor authentication more user-friendly through trusted devices | by Guillaume Viguier-Just | Medium](https://medium.com/@guillaume.viguierjust/making-two-factor-authentication-more-user-friendly-through-trusted-devices-257acc27b24b) 
 ### April 23, 2021 
 - [Add a Shopping Cart to Any Website in Minutes - Snipcart](https://snipcart.com/) 
 - [Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/) 
