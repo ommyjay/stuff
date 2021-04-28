@@ -97,6 +97,9 @@
 
 
 
+
+### April 28, 2021 
+- [How to Create Actions for Selected Text With the Selection API | CSS-Tricks](https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/) 
 ### April 25, 2021 
 - [Making two-factor authentication more user-friendly through trusted devices | by Guillaume Viguier-Just | Medium](https://medium.com/@guillaume.viguierjust/making-two-factor-authentication-more-user-friendly-through-trusted-devices-257acc27b24b) 
 - [Implementing 2FA in the context of an API | by Guillaume Viguier-Just | Medium](https://medium.com/@guillaume.viguierjust/implementing-2fa-in-the-context-of-an-api-3c16243a27d) 
