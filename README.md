@@ -98,6 +98,9 @@
 
 
 
+
+### April 30, 2021 
+- [Seamless bar chart race component for React](https://reactjsexample.com/seamless-bar-chart-race-component-for-react/) 
 ### April 28, 2021 
 - [How to Create Actions for Selected Text With the Selection API | CSS-Tricks](https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/) 
 ### April 25, 2021 
