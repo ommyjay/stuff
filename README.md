@@ -99,6 +99,9 @@
 
 
 
+
+### May 2, 2021 
+- [The Decorator Design Pattern.. A decorator is a structural design… | by Anton Smirnov | Geek Culture | Apr, 2021 | Medium](https://medium.com/geekculture/the-decorator-design-pattern-723359027a09) 
 ### April 30, 2021 
 - [Seamless bar chart race component for React](https://reactjsexample.com/seamless-bar-chart-race-component-for-react/) 
 ### April 28, 2021 
