@@ -102,6 +102,9 @@
 
 
 
+
+### May 16, 2021 
+- [Setup Google, Github and Facebook Authentication in your React App 🚀](https://savio.xyz/setup-google-github-and-facebook-authentication-in-your-react-app) 
 ### May 4, 2021 
 - [Google Developers Presented a Background Replacement System](https://80.lv/articles/google-developers-presented-a-background-replacement-system/) 
 ### May 3, 2021 
