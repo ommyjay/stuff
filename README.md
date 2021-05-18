@@ -103,6 +103,9 @@
 
 
 
+
+### May 18, 2021 
+- [aws-sdk-js-v3/clients at main · aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3/tree/main/clients) 
 ### May 16, 2021 
 - [Setup Google, Github and Facebook Authentication in your React App 🚀](https://savio.xyz/setup-google-github-and-facebook-authentication-in-your-react-app) 
 ### May 4, 2021 
