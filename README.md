@@ -104,6 +104,9 @@
 
 
 
+
+### May 19, 2021 
+- [Top 10 Chrome DevTools tips & tricks - DEV Community](https://dev.to/areknawo/top-10-chrome-devtools-tips-tricks-2b8g) 
 ### May 18, 2021 
 - [aws-sdk-js-v3/clients at main · aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3/tree/main/clients) 
 ### May 16, 2021 
