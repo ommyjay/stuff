@@ -105,6 +105,9 @@
 
 
 
+
+### May 29, 2021 
+- [How to trigger Lambda functions periodically or at a specific time using CloudWatch — HNP.DEV](https://hnp.dev/Lambda-and-Cron-How-to-trigger-Lambda-functions-using-CloudWatch/) 
 ### May 19, 2021 
 - [Top 10 Chrome DevTools tips & tricks - DEV Community](https://dev.to/areknawo/top-10-chrome-devtools-tips-tricks-2b8g) 
 ### May 18, 2021 
