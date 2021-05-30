@@ -107,6 +107,9 @@
 
 
 
+
+### May 31, 2021 
+- [How to document your architecture? | TSH.io](https://tsh.io/blog/how-to-document-your-architecture/) 
 ### May 30, 2021 
 - [Continuous Deployment of an AWS Lambda Function Using Bitbucket Pipelines](https://www.twilio.com/blog/continuous-deployment-aws-lambda-function-bitbucket-pipelines) 
 - [Google Cloud API design tips | Google Cloud Blog](https://cloud.google.com/blog/products/api-management/google-cloud-api-design-tips) 
