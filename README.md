@@ -110,6 +110,7 @@
 ### May 30, 2021 
 - [Continuous Deployment of an AWS Lambda Function Using Bitbucket Pipelines](https://www.twilio.com/blog/continuous-deployment-aws-lambda-function-bitbucket-pipelines) 
 - [Google Cloud API design tips | Google Cloud Blog](https://cloud.google.com/blog/products/api-management/google-cloud-api-design-tips) 
+- [For startups, trustworthy security means going above and beyond compliance standards | TechCrunch](https://techcrunch.com/2021/05/30/for-startups-trustworthy-security-means-going-above-and-beyond-compliance-standards/) 
 ### May 29, 2021 
 - [How to trigger Lambda functions periodically or at a specific time using CloudWatch — HNP.DEV](https://hnp.dev/Lambda-and-Cron-How-to-trigger-Lambda-functions-using-CloudWatch/) 
 ### May 19, 2021 
