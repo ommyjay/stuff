@@ -109,6 +109,9 @@
 
 
 
+
+### July 10, 2021 
+- [Using forwardRef in React to clean up the DOM - LogRocket Blog](https://blog.logrocket.com/cleaning-up-the-dom-with-forwardref-in-react/) 
 ### June 22, 2021 
 - [React Testing Library – Tutorial with JavaScript Code Examples](https://www.freecodecamp.org/news/react-testing-library-tutorial-javascript-example-code/) 
 - [How to use React Testing Library Tutorial - RWieruch](https://www.robinwieruch.de/react-testing-library) 
