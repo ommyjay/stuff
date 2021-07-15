@@ -118,6 +118,7 @@
 - [Floatpays – Financial wellbeing made simple](https://www.floatpays.co.za/) 
 - [Chari Is the leading B2B e-commerce platform for FMCG products in North Africa](https://chari.ma/?__s=fstsykek7ycrss9mvfoi) 
 - [Free Online Appointment Scheduling Software - Calendly](https://calendly.com/) 
+- [Guide to naming in code / Habr](https://habr.com/en/post/567870/) 
 ### July 13, 2021 
 - [Getting Started — envoy 1.19.0-dev-a1606b documentation](https://www.envoyproxy.io/docs/envoy/latest/start/start) 
 ### July 10, 2021 
