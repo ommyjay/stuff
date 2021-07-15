@@ -111,6 +111,9 @@
 
 
 
+
+### July 15, 2021 
+- [Envoy vs NGINX vs HAProxy: Why the open source Ambassador API Gateway chose Envoy | by Richard Li | Ambassador Labs](https://blog.getambassador.io/envoy-vs-nginx-vs-haproxy-why-the-open-source-ambassador-api-gateway-chose-envoy-23826aed79ef) 
 ### July 13, 2021 
 - [Getting Started — envoy 1.19.0-dev-a1606b documentation](https://www.envoyproxy.io/docs/envoy/latest/start/start) 
 ### July 10, 2021 
