@@ -112,6 +112,9 @@
 
 
 
+
+### July 16, 2021 
+- [Create a Spotify Playlist with Terraform | Terraform - HashiCorp Learn](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist) 
 ### July 15, 2021 
 - [Envoy vs NGINX vs HAProxy: Why the open source Ambassador API Gateway chose Envoy | by Richard Li | Ambassador Labs](https://blog.getambassador.io/envoy-vs-nginx-vs-haproxy-why-the-open-source-ambassador-api-gateway-chose-envoy-23826aed79ef) 
 - [How we migrated Dropbox from Nginx to Envoy - Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) 
