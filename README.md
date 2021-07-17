@@ -117,6 +117,7 @@
 ### July 17, 2021 
 - [Demo Flexbox 1](https://codepen.io/team/css-tricks/pen/EKEYob) 
 - [15 Custom Hooks to Make your React Component Lightweight](https://nilanth.hashnode.dev/15-custom-hooks-to-make-your-react-component-lightweight) 
+- [React Hooks — 👍](https://github.com/streamich/react-use) 
 ### July 16, 2021 
 - [Create a Spotify Playlist with Terraform | Terraform - HashiCorp Learn](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist) 
 ### July 15, 2021 
