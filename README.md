@@ -113,6 +113,9 @@
 
 
 
+
+### July 17, 2021 
+- [Demo Flexbox 1](https://codepen.io/team/css-tricks/pen/EKEYob) 
 ### July 16, 2021 
 - [Create a Spotify Playlist with Terraform | Terraform - HashiCorp Learn](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist) 
 ### July 15, 2021 
