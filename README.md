@@ -114,6 +114,9 @@
 
 
 
+
+### July 19, 2021 
+- [Hacking Javascript Objects](https://aakansha.dev/hacking-javascript-objects) 
 ### July 17, 2021 
 - [Demo Flexbox 1](https://codepen.io/team/css-tricks/pen/EKEYob) 
 - [15 Custom Hooks to Make your React Component Lightweight](https://nilanth.hashnode.dev/15-custom-hooks-to-make-your-react-component-lightweight) 
