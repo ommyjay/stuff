@@ -117,6 +117,9 @@
 
 
 
+
+### August 5, 2021 
+- [HTML Email Template for beginners](https://suprabhasupi.hashnode.dev/html-email-template-for-beginners) 
 ### July 28, 2021 
 - [Stellar Anchor Tests](https://anchor-tests.stellar.org/) 
 ### July 26, 2021 
