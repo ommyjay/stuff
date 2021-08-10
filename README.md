@@ -118,6 +118,9 @@
 
 
 
+
+### August 10, 2021 
+- [The Types of Programmers I Don’t Want to Work with Again | by keypressingmonkey | Level Up Coding](https://levelup.gitconnected.com/the-types-of-programmers-i-dont-want-to-work-with-again-9e1ea0e92ff6) 
 ### August 5, 2021 
 - [HTML Email Template for beginners](https://suprabhasupi.hashnode.dev/html-email-template-for-beginners) 
 ### July 28, 2021 
