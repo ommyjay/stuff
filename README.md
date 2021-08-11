@@ -124,6 +124,7 @@
 ### August 12, 2021 
 - [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/) 
 - [Slack Platform Developer Tools](https://slack.dev/) 
+- [Making Blockchain-Based App Dev More Accessible - DevOps.com](https://devops.com/making-blockchain-based-app-dev-more-accessible/) 
 ### August 11, 2021 
 - [10 Easy Steps To Abandon Redux for the Remarkable React Hooks | by Martin Novak | Aug, 2021 | Better Programming](https://betterprogramming.pub/10-easy-steps-to-abandon-redux-for-the-remarkable-react-hooks-124916fc634d) 
 ### August 10, 2021 
