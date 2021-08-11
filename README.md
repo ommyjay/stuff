@@ -120,6 +120,9 @@
 
 
 
+
+### August 12, 2021 
+- [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/) 
 ### August 11, 2021 
 - [10 Easy Steps To Abandon Redux for the Remarkable React Hooks | by Martin Novak | Aug, 2021 | Better Programming](https://betterprogramming.pub/10-easy-steps-to-abandon-redux-for-the-remarkable-react-hooks-124916fc634d) 
 ### August 10, 2021 
