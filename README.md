@@ -119,6 +119,9 @@
 
 
 
+
+### August 11, 2021 
+- [10 Easy Steps To Abandon Redux for the Remarkable React Hooks | by Martin Novak | Aug, 2021 | Better Programming](https://betterprogramming.pub/10-easy-steps-to-abandon-redux-for-the-remarkable-react-hooks-124916fc634d) 
 ### August 10, 2021 
 - [The Types of Programmers I Don’t Want to Work with Again | by keypressingmonkey | Level Up Coding](https://levelup.gitconnected.com/the-types-of-programmers-i-dont-want-to-work-with-again-9e1ea0e92ff6) 
 ### August 5, 2021 
