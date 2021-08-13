@@ -121,6 +121,9 @@
 
 
 
+
+### August 13, 2021 
+- [Testing React Components with Jest and Enzyme- In Depth | by Alona Pysarenko | Bits and Pieces](https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90) 
 ### August 12, 2021 
 - [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/) 
 - [Slack Platform Developer Tools](https://slack.dev/) 
