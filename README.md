@@ -125,6 +125,7 @@
 
 ### August 16, 2021 
 - [Understand the different javascript modules formats | Code-trotter](https://code-trotter.com/web/understand-the-different-javascript-modules-formats/) 
+- [How to efficiently update your npm dependencies ? | Code-trotter](https://code-trotter.com/web/how-to-efficiently-update-your-npm-dependencies/) 
 ### August 13, 2021 
 - [Testing React Components with Jest and Enzyme- In Depth | by Alona Pysarenko | Bits and Pieces](https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90) 
 ### August 12, 2021 
