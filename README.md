@@ -126,6 +126,7 @@
 
 ### August 18, 2021 
 - [Workflow automation: 7 tasks to automate - Work Life by Atlassian](https://www.atlassian.com/blog/add-ons/workflow-automation) 
+- [100 Things You Should Know as a Software Engineer](https://hkandala.dev/100-things-you-should-know) 
 ### August 16, 2021 
 - [Understand the different javascript modules formats | Code-trotter](https://code-trotter.com/web/understand-the-different-javascript-modules-formats/) 
 - [How to efficiently update your npm dependencies ? | Code-trotter](https://code-trotter.com/web/how-to-efficiently-update-your-npm-dependencies/) 
