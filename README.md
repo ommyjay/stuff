@@ -130,6 +130,7 @@
 - [Book notes: Becoming a Technical Leader - DEV Community](https://dev.to/danlebrero/book-notes-becoming-a-technical-leader-44ha) 
 - [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) 
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) 
+- [Making setInterval Declarative with React Hooks — Overreacted](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) 
 ### August 18, 2021 
 - [Workflow automation: 7 tasks to automate - Work Life by Atlassian](https://www.atlassian.com/blog/add-ons/workflow-automation) 
 - [100 Things You Should Know as a Software Engineer](https://hkandala.dev/100-things-you-should-know) 
