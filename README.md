@@ -135,6 +135,7 @@
 - [Percentages in CSS: you're using them wrong - DEV Community](https://dev.to/maxart2501/percentages-in-css-you-re-using-them-wrong-kpn) 
 - [JavaScript ‪Module Cheatsheet 📄‬ | by Samantha Ming | DailyJS | Medium](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829) 
 - [JavaScript ‪Module Cheatsheet 📄‬ | by Samantha Ming | DailyJS | Medium](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829) 
+- [What's the score of your functions? - DEV Community](https://dev.to/sksaifuddin/what-s-the-score-of-your-functions-1h2k) 
 ### August 18, 2021 
 - [Workflow automation: 7 tasks to automate - Work Life by Atlassian](https://www.atlassian.com/blog/add-ons/workflow-automation) 
 - [100 Things You Should Know as a Software Engineer](https://hkandala.dev/100-things-you-should-know) 
