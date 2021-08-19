@@ -128,6 +128,7 @@
 ### August 19, 2021 
 - [Verify phone numbers on the web with the WebOTP API](https://web.dev/web-otp/) 
 - [Book notes: Becoming a Technical Leader - DEV Community](https://dev.to/danlebrero/book-notes-becoming-a-technical-leader-44ha) 
+- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) 
 ### August 18, 2021 
 - [Workflow automation: 7 tasks to automate - Work Life by Atlassian](https://www.atlassian.com/blog/add-ons/workflow-automation) 
 - [100 Things You Should Know as a Software Engineer](https://hkandala.dev/100-things-you-should-know) 
