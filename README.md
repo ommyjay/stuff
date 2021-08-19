@@ -132,6 +132,7 @@
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) 
 - [Making setInterval Declarative with React Hooks — Overreacted](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) 
 - [Amelia Wattenberger](https://wattenberger.com/blog/gauge) 
+- [Percentages in CSS: you're using them wrong - DEV Community](https://dev.to/maxart2501/percentages-in-css-you-re-using-them-wrong-kpn) 
 ### August 18, 2021 
 - [Workflow automation: 7 tasks to automate - Work Life by Atlassian](https://www.atlassian.com/blog/add-ons/workflow-automation) 
 - [100 Things You Should Know as a Software Engineer](https://hkandala.dev/100-things-you-should-know) 
