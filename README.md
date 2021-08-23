@@ -125,6 +125,9 @@
 
 
 
+
+### August 23, 2021 
+- [22 Must watch programming movies in 2021 (hottest)](https://devbookmark.com/must-watch-movies) 
 ### August 19, 2021 
 - [Verify phone numbers on the web with the WebOTP API](https://web.dev/web-otp/) 
 - [Book notes: Becoming a Technical Leader - DEV Community](https://dev.to/danlebrero/book-notes-becoming-a-technical-leader-44ha) 
