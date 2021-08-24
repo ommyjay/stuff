@@ -126,6 +126,9 @@
 
 
 
+
+### August 24, 2021 
+- [React Hooks: The Complete Guide. What are React Hooks, Challenges in… | by Ayush Verma | Aug, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6) 
 ### August 23, 2021 
 - [22 Must watch programming movies in 2021 (hottest)](https://devbookmark.com/must-watch-movies) 
 ### August 19, 2021 
