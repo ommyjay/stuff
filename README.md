@@ -127,6 +127,9 @@
 
 
 
+
+### August 26, 2021 
+- [Animating React with React Transition Group | by Paige Niedringhaus | Bits and Pieces](https://blog.bitsrc.io/animating-reactjs-with-react-transition-group-2af6c87cab0c) 
 ### August 24, 2021 
 - [React Hooks: The Complete Guide. What are React Hooks, Challenges in… | by Ayush Verma | Aug, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/react-hooks-the-complete-guide-5c176ca825f6) 
 ### August 23, 2021 
