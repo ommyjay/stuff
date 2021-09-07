@@ -129,6 +129,9 @@
 
 
 
+
+### September 7, 2021 
+- [prettier/eslint-plugin-prettier: ESLint plugin for Prettier formatting](https://github.com/prettier/eslint-plugin-prettier#options) 
 ### September 2, 2021 
 - [migrate-mongo - npm](https://www.npmjs.com/package/migrate-mongo) 
 ### August 26, 2021 
