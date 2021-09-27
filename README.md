@@ -133,6 +133,9 @@
 
 
 
+
+### September 27, 2021 
+- [Getting started | NextUI - Beautiful, fast,modern React UI Library](https://nextui.org/docs/guide/getting-started) 
 ### September 21, 2021 
 - [Next.js Architecture for Common Solutions | Chris Hannaby - YouTube](https://www.youtube.com/watch?v=ZGAR8RdBdok&list=PLzlG0L9jlhEOpbaoHvxJD1Y1d88srhcOY&index=2&ab_channel=Netlify) 
 ### September 17, 2021 
