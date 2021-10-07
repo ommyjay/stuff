@@ -137,6 +137,7 @@
 
 ### October 7, 2021 
 - [cursor.hasNext() — MongoDB Manual](https://docs.mongodb.com/manual/reference/method/cursor.hasNext/) 
+- [Installing RedisInsight on AWS EC2 | Redis Documentation Center](https://docs.redis.com/latest/ri/installing/install-ec2/) 
 ### September 27, 2021 
 - [Getting started | NextUI - Beautiful, fast,modern React UI Library](https://nextui.org/docs/guide/getting-started) 
 - [React Hooks: Complete Interview Guide. | by Sourav Saha | Sep, 2021 | Medium](https://medium.com/@souravsaha101/react-hooks-complete-interview-guide-44dbfe3841b4) 
