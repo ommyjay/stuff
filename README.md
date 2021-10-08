@@ -135,6 +135,9 @@
 
 
 
+
+### October 8, 2021 
+- [React Custom Hooks: useBoolean - DEV Community 👩‍💻👨‍💻](https://dev.to/iamludal/react-custom-hooks-useboolean-3m6c) 
 ### October 7, 2021 
 - [cursor.hasNext() — MongoDB Manual](https://docs.mongodb.com/manual/reference/method/cursor.hasNext/) 
 - [Installing RedisInsight on AWS EC2 | Redis Documentation Center](https://docs.redis.com/latest/ri/installing/install-ec2/) 
