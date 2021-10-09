@@ -140,6 +140,7 @@
 ### October 9, 2021 
 - [Testing | NestJS - A progressive Node.js framework](https://docs.nestjs.com/fundamentals/testing) 
 - [Nest.js Unit Testing | Best Practices + MongoDB - YouTube](https://www.youtube.com/watch?v=1Vc6Xw8FMpg&ab_channel=MichaelGuay) 
+- [NestJS Testing Tutorial | Unit and Integration Testing - YouTube](https://www.youtube.com/watch?v=dXOfOgFFKuY&t=1s&ab_channel=MariusEspejo) 
 ### October 8, 2021 
 - [React Custom Hooks: useBoolean - DEV Community 👩‍💻👨‍💻](https://dev.to/iamludal/react-custom-hooks-useboolean-3m6c) 
 ### October 7, 2021 
