@@ -143,6 +143,7 @@
 - [How to Set Environment Variables in MacOS | phoenixNAP KB](https://phoenixnap.com/kb/set-environment-variable-mac) 
 - [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/) 
 - [Tailwind UI - Official Tailwind CSS Components](https://tailwindui.com/) 
+- [typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react) 
 ### October 9, 2021 
 - [Testing | NestJS - A progressive Node.js framework](https://docs.nestjs.com/fundamentals/testing) 
 - [Nest.js Unit Testing | Best Practices + MongoDB - YouTube](https://www.youtube.com/watch?v=1Vc6Xw8FMpg&ab_channel=MichaelGuay) 
