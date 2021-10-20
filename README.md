@@ -141,6 +141,7 @@
 ### October 20, 2021 
 - [A Guide To Managing Tech Teams](https://andrei-calazans.com/posts/2021-06-17/a-guide-to-managing-tech-teams) 
 - [How to Set Environment Variables in MacOS | phoenixNAP KB](https://phoenixnap.com/kb/set-environment-variable-mac) 
+- [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/) 
 ### October 9, 2021 
 - [Testing | NestJS - A progressive Node.js framework](https://docs.nestjs.com/fundamentals/testing) 
 - [Nest.js Unit Testing | Best Practices + MongoDB - YouTube](https://www.youtube.com/watch?v=1Vc6Xw8FMpg&ab_channel=MichaelGuay) 
