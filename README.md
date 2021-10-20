@@ -145,6 +145,7 @@
 - [Tailwind UI - Official Tailwind CSS Components](https://tailwindui.com/) 
 - [typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react) 
 - [sw-yx/spark-joy: ✨😂easy ways to add design flair, user delight, and whimsy to your product.](https://github.com/sw-yx/spark-joy/) 
+- [Learn In Public](https://www.swyx.io/learn-in-public/) 
 ### October 9, 2021 
 - [Testing | NestJS - A progressive Node.js framework](https://docs.nestjs.com/fundamentals/testing) 
 - [Nest.js Unit Testing | Best Practices + MongoDB - YouTube](https://www.youtube.com/watch?v=1Vc6Xw8FMpg&ab_channel=MichaelGuay) 
