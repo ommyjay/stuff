@@ -137,6 +137,9 @@
 
 
 
+
+### October 20, 2021 
+- [A Guide To Managing Tech Teams](https://andrei-calazans.com/posts/2021-06-17/a-guide-to-managing-tech-teams) 
 ### October 9, 2021 
 - [Testing | NestJS - A progressive Node.js framework](https://docs.nestjs.com/fundamentals/testing) 
 - [Nest.js Unit Testing | Best Practices + MongoDB - YouTube](https://www.youtube.com/watch?v=1Vc6Xw8FMpg&ab_channel=MichaelGuay) 
