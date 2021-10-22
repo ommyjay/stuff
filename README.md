@@ -138,6 +138,9 @@
 
 
 
+
+### October 22, 2021 
+- [ahooks - React Hooks Library](https://ahooks.js.org/) 
 ### October 20, 2021 
 - [A Guide To Managing Tech Teams](https://andrei-calazans.com/posts/2021-06-17/a-guide-to-managing-tech-teams) 
 - [How to Set Environment Variables in MacOS | phoenixNAP KB](https://phoenixnap.com/kb/set-environment-variable-mac) 
