@@ -139,6 +139,9 @@
 
 
 
+
+### October 23, 2021 
+- [React Hooks - Understanding Component Re-renders | by Gupta Garuda | Medium](https://medium.com/@guptagaruda/react-hooks-understanding-component-re-renders-9708ddee9928) 
 ### October 22, 2021 
 - [ahooks - React Hooks Library](https://ahooks.js.org/) 
 - [Dependent Requests in React Query | Building SPAs](https://www.carlrippon.com/dependent-requests-in-react-query/) 
