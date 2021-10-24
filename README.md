@@ -140,6 +140,9 @@
 
 
 
+
+### October 24, 2021 
+- [Code quality: a concern for businesses, bottom lines, and empathetic programmers - Stack Overflow Blog](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) 
 ### October 23, 2021 
 - [React Hooks - Understanding Component Re-renders | by Gupta Garuda | Medium](https://medium.com/@guptagaruda/react-hooks-understanding-component-re-renders-9708ddee9928) 
 ### October 22, 2021 
