@@ -141,6 +141,9 @@
 
 
 
+
+### October 25, 2021 
+- [5 things you don’t know about try-catch-finally in JavaScript | by Javascript Jeep🚙💨 | Level Up Coding](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c) 
 ### October 24, 2021 
 - [Code quality: a concern for businesses, bottom lines, and empathetic programmers - Stack Overflow Blog](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) 
 ### October 23, 2021 
