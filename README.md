@@ -142,6 +142,9 @@
 
 
 
+
+### October 27, 2021 
+- [wtf-is-a-minimum-reproduction | A Description of what the hell a minim reproduction really is](https://jmcdo29.github.io/wtf-is-a-minimum-reproduction/) 
 ### October 25, 2021 
 - [5 things you don’t know about try-catch-finally in JavaScript | by Javascript Jeep🚙💨 | Level Up Coding](https://levelup.gitconnected.com/5-things-you-dont-know-about-try-catch-finally-in-javascript-5d661996d77c) 
 ### October 24, 2021 
