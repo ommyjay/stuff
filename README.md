@@ -143,6 +143,9 @@
 
 
 
+
+### October 28, 2021 
+- [How to solve TypeScript possibly undefined value](https://linguinecode.com/post/how-to-solve-typescript-possibly-undefined-value) 
 ### October 27, 2021 
 - [wtf-is-a-minimum-reproduction | A Description of what the hell a minim reproduction really is](https://jmcdo29.github.io/wtf-is-a-minimum-reproduction/) 
 - [Issue when creating TestingModules with circular references · Issue #4688 · nestjs/nest](https://github.com/nestjs/nest/issues/4688) 
