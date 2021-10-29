@@ -144,6 +144,9 @@
 
 
 
+
+### October 29, 2021 
+- [Netlify Drop | Netlify](https://app.netlify.com/drop) 
 ### October 28, 2021 
 - [How to solve TypeScript possibly undefined value](https://linguinecode.com/post/how-to-solve-typescript-possibly-undefined-value) 
 ### October 27, 2021 
