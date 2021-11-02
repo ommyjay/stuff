@@ -145,6 +145,9 @@
 
 
 
+
+### November 2, 2021 
+- [Husky - Git hooks](https://typicode.github.io/husky/#/?id=features) 
 ### October 29, 2021 
 - [Netlify Drop | Netlify](https://app.netlify.com/drop) 
 ### October 28, 2021 
