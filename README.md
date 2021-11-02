@@ -149,6 +149,7 @@
 ### November 2, 2021 
 - [Husky - Git hooks](https://typicode.github.io/husky/#/?id=features) 
 - [Deploy a nodejs app to AWS/DigitalOcean like yo do in heroku. | by Isaac Kasongoyo | Medium](https://kasongoyo.medium.com/deploy-a-nodejs-app-to-aws-digitalocean-like-yo-do-in-heroku-46efd6cb549b) 
+- [Push to deploy a nodejs application using git hooks | JavaScript](https://javascript.tutorialhorizon.com/2014/08/17/push-to-deploy-a-nodejs-application-using-git-hooks/) 
 ### October 29, 2021 
 - [Netlify Drop | Netlify](https://app.netlify.com/drop) 
 ### October 28, 2021 
