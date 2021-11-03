@@ -146,6 +146,9 @@
 
 
 
+
+### November 3, 2021 
+- [Principles for API Design - Quastor Daily](https://www.quastor.org/p/principles-for-api-design) 
 ### November 2, 2021 
 - [Husky - Git hooks](https://typicode.github.io/husky/#/?id=features) 
 - [Deploy a nodejs app to AWS/DigitalOcean like yo do in heroku. | by Isaac Kasongoyo | Medium](https://kasongoyo.medium.com/deploy-a-nodejs-app-to-aws-digitalocean-like-yo-do-in-heroku-46efd6cb549b) 
