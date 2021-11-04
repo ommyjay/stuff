@@ -147,6 +147,9 @@
 
 
 
+
+### November 4, 2021 
+- [Incident postmortem template | Atlassian](https://www.atlassian.com/incident-management/postmortem/templates) 
 ### November 3, 2021 
 - [Principles for API Design - Quastor Daily](https://www.quastor.org/p/principles-for-api-design) 
 ### November 2, 2021 
