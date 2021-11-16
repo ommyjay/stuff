@@ -156,6 +156,7 @@
 - [Mastodon](https://joinmastodon.org/) 
 - [Serverless AWS S3 pre-signed URLs 🚀 | by Lee James Gilmore | Level Up Coding](https://levelup.gitconnected.com/serverless-s3-pre-signed-urls-e52eebad8d2d) 
 - [Documenting your Serverless Solutions 🚀 | by Lee James Gilmore | Level Up Coding](https://levelup.gitconnected.com/documenting-your-serverless-solutions-509f1928564b) 
+- [Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.](https://github.com/khanhas/spicetify-cli) 
 ### November 15, 2021 
 - [Non-Fungible Token (NFT) like I'm 5](https://likam5.hashnode.dev/non-fungible-tokens-nfts) 
 ### November 14, 2021 
