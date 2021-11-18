@@ -155,6 +155,7 @@
 
 ### November 18, 2021 
 - [33 Best Practices For Graceful Code Reviews | by Rashi Karanpuria | Nov, 2021 | Better Programming](https://betterprogramming.pub/graceful-code-reviews-62c0cb5789ff) 
+- [Single-responsibility principle - Wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
 ### November 16, 2021 
 - [Mastodon](https://joinmastodon.org/) 
 - [Serverless AWS S3 pre-signed URLs 🚀 | by Lee James Gilmore | Level Up Coding](https://levelup.gitconnected.com/serverless-s3-pre-signed-urls-e52eebad8d2d) 
