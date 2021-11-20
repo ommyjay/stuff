@@ -159,6 +159,7 @@
 - [Give the Gift of a Tech Debt Sprint This Agile Holiday Season | by Colby Fayock | Better Programming](https://betterprogramming.pub/give-the-gift-of-a-tech-debt-sprint-this-agile-holiday-season-e1a56104c667) 
 - [Are Sprints Slowing You Down?. How to avoid unnecessary delays caused… | by Kevin Borders | Oct, 2021 | Better Programming](https://betterprogramming.pub/are-sprints-slowing-you-down-5f404c668017) 
 - [8 Steps to Facilitating a Captivating Retrospective | by Allen Helton | Better Programming](https://betterprogramming.pub/8-steps-to-facilitating-a-captivating-retrospective-2324de487706) 
+- [Scrum Isn’t That Great. After a colleague had a burnout on the… | by Meriam Kharbat | Better Programming](https://betterprogramming.pub/scrum-is-not-that-great-112f011224f0) 
 ### November 18, 2021 
 - [33 Best Practices For Graceful Code Reviews | by Rashi Karanpuria | Nov, 2021 | Better Programming](https://betterprogramming.pub/graceful-code-reviews-62c0cb5789ff) 
 - [Single-responsibility principle - Wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
