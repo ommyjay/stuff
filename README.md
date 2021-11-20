@@ -157,6 +157,7 @@
 ### November 20, 2021 
 - [Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.](https://github.com/khanhas/spicetify-cli) 
 - [Give the Gift of a Tech Debt Sprint This Agile Holiday Season | by Colby Fayock | Better Programming](https://betterprogramming.pub/give-the-gift-of-a-tech-debt-sprint-this-agile-holiday-season-e1a56104c667) 
+- [Are Sprints Slowing You Down?. How to avoid unnecessary delays caused… | by Kevin Borders | Oct, 2021 | Better Programming](https://betterprogramming.pub/are-sprints-slowing-you-down-5f404c668017) 
 ### November 18, 2021 
 - [33 Best Practices For Graceful Code Reviews | by Rashi Karanpuria | Nov, 2021 | Better Programming](https://betterprogramming.pub/graceful-code-reviews-62c0cb5789ff) 
 - [Single-responsibility principle - Wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
