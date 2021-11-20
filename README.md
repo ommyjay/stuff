@@ -153,6 +153,9 @@
 
 
 
+
+### November 20, 2021 
+- [Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.](https://github.com/khanhas/spicetify-cli) 
 ### November 18, 2021 
 - [33 Best Practices For Graceful Code Reviews | by Rashi Karanpuria | Nov, 2021 | Better Programming](https://betterprogramming.pub/graceful-code-reviews-62c0cb5789ff) 
 - [Single-responsibility principle - Wikipedia](https://en.wikipedia.org/wiki/Single-responsibility_principle) 
