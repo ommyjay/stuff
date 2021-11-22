@@ -154,6 +154,9 @@
 
 
 
+
+### November 22, 2021 
+- [Tutorial: How to Extend AWS EBS Volumes with No Downtime | by Andrea Marinaro | Geek Culture | Medium](https://medium.com/geekculture/tutorial-how-to-extend-aws-ebs-volumes-with-no-downtime-ec7d9e82426e) 
 ### November 20, 2021 
 - [Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.](https://github.com/khanhas/spicetify-cli) 
 - [Give the Gift of a Tech Debt Sprint This Agile Holiday Season | by Colby Fayock | Better Programming](https://betterprogramming.pub/give-the-gift-of-a-tech-debt-sprint-this-agile-holiday-season-e1a56104c667) 
