@@ -158,6 +158,7 @@
 
 ### November 23, 2021 
 - [Some Cool GitHub Actions You Won't Believe Exists](https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists) 
+- [How to Scale Engineering Processes w/ Twitter's VP of Engineering - DevInterrupted](https://devinterrupted.com/podcast/how-to-scale-engineering-processes-w-twitters-vp-of-engineering/) 
 ### November 22, 2021 
 - [Tutorial: How to Extend AWS EBS Volumes with No Downtime | by Andrea Marinaro | Geek Culture | Medium](https://medium.com/geekculture/tutorial-how-to-extend-aws-ebs-volumes-with-no-downtime-ec7d9e82426e) 
 ### November 20, 2021 
