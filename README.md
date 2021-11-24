@@ -156,6 +156,9 @@
 
 
 
+
+### November 24, 2021 
+- [11 VSCode Keyboard Shortcuts / VSC Key Bindings](https://semicolon.dev/tutorial/vscode/keyboard-shortcuts) 
 ### November 23, 2021 
 - [Some Cool GitHub Actions You Won't Believe Exists](https://astrodevil.hashnode.dev/some-cool-github-actions-you-wont-believe-exists) 
 - [How to Scale Engineering Processes w/ Twitter's VP of Engineering - DevInterrupted](https://devinterrupted.com/podcast/how-to-scale-engineering-processes-w-twitters-vp-of-engineering/) 
