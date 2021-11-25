@@ -160,6 +160,7 @@
 
 ### November 25, 2021 
 - [CSS Arrow Please - By Simon Hoejberg - @shojberg](https://cssarrowplease.com/) 
+- [Rapid, remote testing for agile teams](https://maze.co/) 
 ### November 24, 2021 
 - [11 VSCode Keyboard Shortcuts / VSC Key Bindings](https://semicolon.dev/tutorial/vscode/keyboard-shortcuts) 
 ### November 23, 2021 
