@@ -161,6 +161,7 @@
 
 ### November 29, 2021 
 - [typestack/class-validator: Skipping missing properties](https://github.com/typestack/class-validator#skipping-missing-properties) 
+- [Features of clean code architecture | Node.js - DEV Community 👩‍💻👨‍💻](https://dev.to/dhiwise/features-of-clean-code-architecture-nodejs-1big) 
 ### November 25, 2021 
 - [CSS Arrow Please - By Simon Hoejberg - @shojberg](https://cssarrowplease.com/) 
 - [Rapid, remote testing for agile teams](https://maze.co/) 
