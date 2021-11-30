@@ -159,6 +159,9 @@
 
 
 
+
+### November 30, 2021 
+- [Markdown Here Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) 
 ### November 29, 2021 
 - [typestack/class-validator: Skipping missing properties](https://github.com/typestack/class-validator#skipping-missing-properties) 
 - [Features of clean code architecture | Node.js - DEV Community 👩‍💻👨‍💻](https://dev.to/dhiwise/features-of-clean-code-architecture-nodejs-1big) 
