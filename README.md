@@ -160,6 +160,9 @@
 
 
 
+
+### December 6, 2021 
+- [Freighter | A Stellar wallet for every website](https://www.freighter.app/) 
 ### November 30, 2021 
 - [Markdown Here Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) 
 ### November 29, 2021 
