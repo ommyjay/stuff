@@ -165,6 +165,7 @@
 ### December 7, 2021 
 - [Testing with Jest · Writing Unit Tests](https://backstage.io/docs/plugins/testing#writing-unit-tests) 
 - [louislam/uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma) 
+- [backstage/packages/catalog-model/examples at master · backstage/backstage](https://github.com/backstage/backstage/tree/master/packages/catalog-model/examples) 
 ### December 6, 2021 
 - [Freighter | A Stellar wallet for every website](https://www.freighter.app/) 
 - [Everything New in React 18. 6 new React 18 features that you must… | by Pushkar Thakur | JavaScript in Plain English](https://javascript.plainenglish.io/everything-new-in-react-18-db459c2608de) 
