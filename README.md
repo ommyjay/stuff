@@ -162,6 +162,9 @@
 
 
 
+
+### December 8, 2021 
+- [Extract Text From an Image | Online Text Extractor | Brandfolder](https://brandfolder.com/workbench/extract-text-from-image) 
 ### December 7, 2021 
 - [Testing with Jest · Writing Unit Tests](https://backstage.io/docs/plugins/testing#writing-unit-tests) 
 - [louislam/uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma) 
