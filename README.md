@@ -163,6 +163,9 @@
 
 
 
+
+### December 11, 2021 
+- [How and why you should store React UI state in the URL - DEV Community 👩‍💻👨‍💻](https://dev.to/notsidney/how-and-why-you-should-store-react-ui-state-in-the-url-34pi) 
 ### December 8, 2021 
 - [Extract Text From an Image | Online Text Extractor | Brandfolder](https://brandfolder.com/workbench/extract-text-from-image) 
 ### December 7, 2021 
