@@ -173,6 +173,7 @@
 - [How to Run a Blockchain on a Deserted Island with Pen and Paper | by Tal Kol | HackerNoon.com | Medium](https://medium.com/hackernoon/how-to-run-a-blockchain-on-a-deserted-island-with-pen-and-paper-899949ec555b) 
 - [Auth0 Introduces zanzibar.academy](https://auth0.com/blog/auth0-introduces-zanzibar-academy/) 
 - [Zanzibar: A Global Authorization System - Presented by Auth0](https://zanzibar.academy/) 
+- [Auth0 Fine Grained Authorization](https://play.fga.dev/samples/custom-roles) 
 ### December 19, 2021 
 - [OTP NINJA](https://otpninja.com/) 
 - [readme.so](https://readme.so/) 
