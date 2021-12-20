@@ -169,6 +169,7 @@
 
 ### December 20, 2021 
 - [10 Things Only Highly Creative People Would Understand | Medium](https://medium.com/@dianameresc/10-things-only-highly-creative-people-would-understand-9385e1088008) 
+- [Do This, As A Substitute For Running After Money. | by AP Discovery | New Writers Welcome | Dec, 2021 | Medium](https://medium.com/new-writers-welcome/do-this-as-a-substitute-for-running-after-money-5722fa6e0f07) 
 ### December 19, 2021 
 - [OTP NINJA](https://otpninja.com/) 
 - [readme.so](https://readme.so/) 
