@@ -171,6 +171,7 @@
 - [10 Things Only Highly Creative People Would Understand | Medium](https://medium.com/@dianameresc/10-things-only-highly-creative-people-would-understand-9385e1088008) 
 - [Do This, As A Substitute For Running After Money. | by AP Discovery | New Writers Welcome | Dec, 2021 | Medium](https://medium.com/new-writers-welcome/do-this-as-a-substitute-for-running-after-money-5722fa6e0f07) 
 - [How to Run a Blockchain on a Deserted Island with Pen and Paper | by Tal Kol | HackerNoon.com | Medium](https://medium.com/hackernoon/how-to-run-a-blockchain-on-a-deserted-island-with-pen-and-paper-899949ec555b) 
+- [Auth0 Introduces zanzibar.academy](https://auth0.com/blog/auth0-introduces-zanzibar-academy/) 
 ### December 19, 2021 
 - [OTP NINJA](https://otpninja.com/) 
 - [readme.so](https://readme.so/) 
