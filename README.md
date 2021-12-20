@@ -166,6 +166,9 @@
 
 
 
+
+### December 20, 2021 
+- [10 Things Only Highly Creative People Would Understand | Medium](https://medium.com/@dianameresc/10-things-only-highly-creative-people-would-understand-9385e1088008) 
 ### December 19, 2021 
 - [OTP NINJA](https://otpninja.com/) 
 - [readme.so](https://readme.so/) 
