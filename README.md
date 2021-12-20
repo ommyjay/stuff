@@ -176,6 +176,7 @@
 - [Auth0 Fine Grained Authorization](https://play.fga.dev/samples/custom-roles) 
 - [Hyper™ Terminal](https://hyper.is/) 
 - [A beginner's guide for setting up autocomplete on OhMyZsh & Hyper with plugins & themes! - DEV Community 👩‍💻👨‍💻](https://dev.to/kumareth/a-beginner-s-guide-for-setting-up-autocomplete-on-ohmyzsh-hyper-with-plugins-themes-47f2) 
+- [How to configure and use aliases in ZSH](https://linuxhint.com/configure-use-aliases-zsh/) 
 ### December 19, 2021 
 - [OTP NINJA](https://otpninja.com/) 
 - [readme.so](https://readme.so/) 
