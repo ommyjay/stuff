@@ -174,6 +174,7 @@
 - [Auth0 Introduces zanzibar.academy](https://auth0.com/blog/auth0-introduces-zanzibar-academy/) 
 - [Zanzibar: A Global Authorization System - Presented by Auth0](https://zanzibar.academy/) 
 - [Auth0 Fine Grained Authorization](https://play.fga.dev/samples/custom-roles) 
+- [Hyper™ Terminal](https://hyper.is/) 
 ### December 19, 2021 
 - [OTP NINJA](https://otpninja.com/) 
 - [readme.so](https://readme.so/) 
