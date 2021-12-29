@@ -173,6 +173,7 @@
 - [Docker - Appsmith](https://docs.appsmith.com/setup/docker) 
 - [Cheat Sheet - Appsmith](https://docs.appsmith.com/framework-reference/cheat-sheet) 
 - [5 Dev Tools To Look Out For In 2022 | by Carlo Morrone | Dec, 2021 | Better Programming](https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf) 
+- [Designing Sequence Diagrams for API Orchestration | by Songtham Tung | Dec, 2021 | Better Programming](https://betterprogramming.pub/designing-sequence-diagrams-for-api-orchestration-113ac45e16df) 
 ### December 20, 2021 
 - [10 Things Only Highly Creative People Would Understand | Medium](https://medium.com/@dianameresc/10-things-only-highly-creative-people-would-understand-9385e1088008) 
 - [Do This, As A Substitute For Running After Money. | by AP Discovery | New Writers Welcome | Dec, 2021 | Medium](https://medium.com/new-writers-welcome/do-this-as-a-substitute-for-running-after-money-5722fa6e0f07) 
