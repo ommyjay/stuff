@@ -170,6 +170,7 @@
 
 ### December 29, 2021 
 - [Debug pipelines locally with Docker | Bitbucket Cloud | Atlassian Support](https://support.atlassian.com/bitbucket-cloud/docs/debug-pipelines-locally-with-docker/) 
+- [Docker - Appsmith](https://docs.appsmith.com/setup/docker) 
 ### December 20, 2021 
 - [10 Things Only Highly Creative People Would Understand | Medium](https://medium.com/@dianameresc/10-things-only-highly-creative-people-would-understand-9385e1088008) 
 - [Do This, As A Substitute For Running After Money. | by AP Discovery | New Writers Welcome | Dec, 2021 | Medium](https://medium.com/new-writers-welcome/do-this-as-a-substitute-for-running-after-money-5722fa6e0f07) 
