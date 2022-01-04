@@ -177,6 +177,7 @@
 - [TypeScript 4.4 Cheat Sheet - SitePen](https://www.sitepen.com/blog/typescript-cheat-sheet) 
 - [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co/) 
 - [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/) 
+- [React cheat sheet](http://www.developer-cheatsheets.com/react) 
 ### December 30, 2021 
 - [What Is DX? (Developer Experience) | by Albert Cavalcante | The Startup | Medium](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) 
 ### December 29, 2021 
