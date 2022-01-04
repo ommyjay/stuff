@@ -169,6 +169,9 @@
 
 
 
+
+### January 4, 2022 
+- [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124) 
 ### December 30, 2021 
 - [What Is DX? (Developer Experience) | by Albert Cavalcante | The Startup | Medium](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) 
 ### December 29, 2021 
