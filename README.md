@@ -179,6 +179,7 @@
 - [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/) 
 - [React cheat sheet](http://www.developer-cheatsheets.com/react) 
 - [REST Book - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tanhakabir.rest-book) 
+- [8 techniques to write cleaner JavaScript code - DEV Community](https://dev.to/muhd_ahsanayaz/8-techniques-to-write-cleaner-javascript-code-369e) 
 ### December 30, 2021 
 - [What Is DX? (Developer Experience) | by Albert Cavalcante | The Startup | Medium](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9) 
 ### December 29, 2021 
