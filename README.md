@@ -173,6 +173,7 @@
 
 ### January 5, 2022 
 - [Developer Experience Metrics. How to measure DX using UX metrics. :) | by Albert Cavalcante | Medium](https://medium.com/@albertcavalcante/developer-experience-metrics-46b1d087811d) 
+- [ Gestalt](https://gestalt.netlify.app/whats_new) 
 ### January 4, 2022 
 - [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124) 
 - [25 Most Commonly Used Blockchain Terms Explained](https://blog.qasource.com/25-most-commonly-used-blockchain-terms-explained) 
