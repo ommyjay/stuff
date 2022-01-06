@@ -171,6 +171,9 @@
 
 
 
+
+### January 7, 2022 
+- [OpenApi for your REST APIs in NestJS](https://notiz.dev/blog/openapi-in-nestjs) 
 ### January 5, 2022 
 - [Developer Experience Metrics. How to measure DX using UX metrics. :) | by Albert Cavalcante | Medium](https://medium.com/@albertcavalcante/developer-experience-metrics-46b1d087811d) 
 - [ Gestalt](https://gestalt.netlify.app/whats_new) 
