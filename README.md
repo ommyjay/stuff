@@ -178,6 +178,7 @@
 - [Introduction | Cromwell CMS](https://cromwellcms.com/docs/overview/intro/#examples) 
 - [Basics of CI/CD | by Semyon Kirekov | Medium | Level Up Coding](https://levelup.gitconnected.com/basics-of-ci-cd-a98340c60b04) 
 - [Basics of CI/CD | by Semyon Kirekov | Medium | Level Up Coding](https://levelup.gitconnected.com/basics-of-ci-cd-a98340c60b04) 
+- [How We Have Automated Release Notes Generation | Level Up Coding](https://levelup.gitconnected.com/how-we-have-automated-release-notes-generation-9365de451327) 
 ### January 7, 2022 
 - [OpenApi for your REST APIs in NestJS](https://notiz.dev/blog/openapi-in-nestjs) 
 ### January 5, 2022 
