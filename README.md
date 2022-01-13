@@ -180,6 +180,7 @@
 - [Basics of CI/CD | by Semyon Kirekov | Medium | Level Up Coding](https://levelup.gitconnected.com/basics-of-ci-cd-a98340c60b04) 
 - [How We Have Automated Release Notes Generation | Level Up Coding](https://levelup.gitconnected.com/how-we-have-automated-release-notes-generation-9365de451327) 
 - [semantic-release/semantic-release: Fully automated version management and package publishing](https://github.com/semantic-release/semantic-release) 
+- [End-to-End Testing With React, Jest, and the TestProject JavaScript OpenSDK | by Tyler Hawkins | Better Programming](https://betterprogramming.pub/end-to-end-testing-with-react-jest-and-the-testproject-javascript-opensdk-d290fec3ab30) 
 ### January 7, 2022 
 - [OpenApi for your REST APIs in NestJS](https://notiz.dev/blog/openapi-in-nestjs) 
 ### January 5, 2022 
