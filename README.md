@@ -183,6 +183,7 @@
 - [End-to-End Testing With React, Jest, and the TestProject JavaScript OpenSDK | by Tyler Hawkins | Better Programming](https://betterprogramming.pub/end-to-end-testing-with-react-jest-and-the-testproject-javascript-opensdk-d290fec3ab30) 
 - [End to end testing in React with Puppeteer and Jest | by Benjamin Ajewole | Medium](https://rexben.medium.com/end-to-end-testing-in-react-with-puppeteer-and-jest-6a0b1b8cff6b) 
 - [Building a React dashboard to visualize workflow and job events | CircleCI](https://circleci.com/blog/react-webhook-dashboard/) 
+- [Software Architecture Patterns - by Quastor Tech](https://www.quastor.org/p/software-architecture-patterns) 
 ### January 7, 2022 
 - [OpenApi for your REST APIs in NestJS](https://notiz.dev/blog/openapi-in-nestjs) 
 ### January 5, 2022 
