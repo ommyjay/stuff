@@ -177,6 +177,7 @@
 - [The Clean Architecture — Beginner’s Guide | by Bharath | Jan, 2022 | Better Programming](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165) 
 - [Introduction | Cromwell CMS](https://cromwellcms.com/docs/overview/intro/#examples) 
 - [Basics of CI/CD | by Semyon Kirekov | Medium | Level Up Coding](https://levelup.gitconnected.com/basics-of-ci-cd-a98340c60b04) 
+- [Basics of CI/CD | by Semyon Kirekov | Medium | Level Up Coding](https://levelup.gitconnected.com/basics-of-ci-cd-a98340c60b04) 
 ### January 7, 2022 
 - [OpenApi for your REST APIs in NestJS](https://notiz.dev/blog/openapi-in-nestjs) 
 ### January 5, 2022 
