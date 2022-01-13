@@ -181,6 +181,7 @@
 - [How We Have Automated Release Notes Generation | Level Up Coding](https://levelup.gitconnected.com/how-we-have-automated-release-notes-generation-9365de451327) 
 - [semantic-release/semantic-release: Fully automated version management and package publishing](https://github.com/semantic-release/semantic-release) 
 - [End-to-End Testing With React, Jest, and the TestProject JavaScript OpenSDK | by Tyler Hawkins | Better Programming](https://betterprogramming.pub/end-to-end-testing-with-react-jest-and-the-testproject-javascript-opensdk-d290fec3ab30) 
+- [End to end testing in React with Puppeteer and Jest | by Benjamin Ajewole | Medium](https://rexben.medium.com/end-to-end-testing-in-react-with-puppeteer-and-jest-6a0b1b8cff6b) 
 ### January 7, 2022 
 - [OpenApi for your REST APIs in NestJS](https://notiz.dev/blog/openapi-in-nestjs) 
 ### January 5, 2022 
