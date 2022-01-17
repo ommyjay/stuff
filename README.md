@@ -178,6 +178,7 @@
 - [Technical Debt as a Product-Engineering Issue | by Andreja Dulović | Nov, 2021 | Better Programming](https://betterprogramming.pub/technical-debt-as-a-product-engineering-issue-2d805ab49e8c) 
 - [Technical Debt as a Product-Engineering Issue | by Andreja Dulović | Nov, 2021 | Better Programming](https://betterprogramming.pub/technical-debt-as-a-product-engineering-issue-2d805ab49e8c) 
 - [How To : Powerlevel9k Themes on Ubuntu | by Christy Jacob | Medium](https://medium.com/@christyjacob4/powerlevel9k-themes-f400759638c2) 
+- [How To : Powerlevel9k Themes on Ubuntu | by Christy Jacob | Medium](https://medium.com/@christyjacob4/powerlevel9k-themes-f400759638c2) 
 ### January 13, 2022 
 - [The Clean Architecture — Beginner’s Guide | by Bharath | Jan, 2022 | Better Programming](https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165) 
 - [Introduction | Cromwell CMS](https://cromwellcms.com/docs/overview/intro/#examples) 
