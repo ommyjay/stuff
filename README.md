@@ -174,6 +174,9 @@
 
 
 
+
+### January 21, 2022 
+- [A simple CSS trick for dark mode | Opensource.com](https://opensource.com/article/21/10/dark-themes-websites) 
 ### January 17, 2022 
 - [Technical Debt as a Product-Engineering Issue | by Andreja Dulović | Nov, 2021 | Better Programming](https://betterprogramming.pub/technical-debt-as-a-product-engineering-issue-2d805ab49e8c) 
 - [Technical Debt as a Product-Engineering Issue | by Andreja Dulović | Nov, 2021 | Better Programming](https://betterprogramming.pub/technical-debt-as-a-product-engineering-issue-2d805ab49e8c) 
