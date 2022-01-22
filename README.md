@@ -175,6 +175,9 @@
 
 
 
+
+### January 22, 2022 
+- [Create a Month, Week, and Day View Calendar with React and FullCalendar | by Chad Murobayashi | Level Up Coding](https://levelup.gitconnected.com/create-a-month-week-and-day-view-calendar-with-react-and-fullcalendar-1794d76e6d06) 
 ### January 21, 2022 
 - [A simple CSS trick for dark mode | Opensource.com](https://opensource.com/article/21/10/dark-themes-websites) 
 ### January 17, 2022 
