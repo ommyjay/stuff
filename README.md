@@ -176,6 +176,9 @@
 
 
 
+
+### January 25, 2022 
+- [How to Run an Agile Retrospective Meeting with Examples](https://www.atlassian.com/team-playbook/plays/retrospective) 
 ### January 22, 2022 
 - [Create a Month, Week, and Day View Calendar with React and FullCalendar | by Chad Murobayashi | Level Up Coding](https://levelup.gitconnected.com/create-a-month-week-and-day-view-calendar-with-react-and-fullcalendar-1794d76e6d06) 
 ### January 21, 2022 
