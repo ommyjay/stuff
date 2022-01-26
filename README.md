@@ -177,6 +177,9 @@
 
 
 
+
+### January 26, 2022 
+- [Building a Developer Portal with Backstage (Part 1) | by Dominik Henneke | SDA SE Open Industry Solutions | Medium](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-1-c4602ee59260) 
 ### January 25, 2022 
 - [How to Run an Agile Retrospective Meeting with Examples](https://www.atlassian.com/team-playbook/plays/retrospective) 
 - [Control Access to an Asset – Stellar Documentation](https://developers.stellar.org/docs/issuing-assets/control-asset-access/) 
