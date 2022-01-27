@@ -178,6 +178,9 @@
 
 
 
+
+### January 27, 2022 
+- [What are team-managed and company-managed projects? | Jira Software Cloud | Atlassian Support](https://support.atlassian.com/jira-software-cloud/docs/what-are-team-managed-and-company-managed-projects/) 
 ### January 26, 2022 
 - [Building a Developer Portal with Backstage (Part 1) | by Dominik Henneke | SDA SE Open Industry Solutions | Medium](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-1-c4602ee59260) 
 ### January 25, 2022 
