@@ -183,6 +183,7 @@
 ### January 29, 2022 
 - [pdsh Parallel Shell » ADMIN Magazine](https://www.admin-magazine.com/HPC/Articles/pdsh-Parallel-Shell) 
 - [Linux cluster sysadmin -- Parallel command execution with PDSH](https://www.rittmanmead.com/blog/2014/12/linux-cluster-sysadmin-parallel-command-execution-with-pdsh/) 
+- [Run Command Parallel on Multiple Hosts using PDSH Tool](https://linoxide.com/command-parallel-pdsh-example/) 
 ### January 27, 2022 
 - [What are team-managed and company-managed projects? | Jira Software Cloud | Atlassian Support](https://support.atlassian.com/jira-software-cloud/docs/what-are-team-managed-and-company-managed-projects/) 
 ### January 26, 2022 
