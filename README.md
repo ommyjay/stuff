@@ -180,6 +180,9 @@
 
 
 
+
+### February 1, 2022 
+- [Pull request merge strategies | Bitbucket Data Center and Server 7.20 | Atlassian Documentation](https://confluence.atlassian.com/bitbucketserver/pull-request-merge-strategies-844499235.html) 
 ### January 29, 2022 
 - [pdsh Parallel Shell » ADMIN Magazine](https://www.admin-magazine.com/HPC/Articles/pdsh-Parallel-Shell) 
 - [Linux cluster sysadmin -- Parallel command execution with PDSH](https://www.rittmanmead.com/blog/2014/12/linux-cluster-sysadmin-parallel-command-execution-with-pdsh/) 
