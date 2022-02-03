@@ -182,6 +182,9 @@
 
 
 
+
+### February 3, 2022 
+- [Make Smooth Page Transitions with React Router | by Noah Blumenstein | Jan, 2022 | Bits and Pieces](https://blog.bitsrc.io/make-smooth-fade-in-fade-out-page-transitions-with-react-router-8a39593f0b) 
 ### February 2, 2022 
 - [Community Scripts | Script Kit](https://www.scriptkit.com/scripts) 
 ### February 1, 2022 
