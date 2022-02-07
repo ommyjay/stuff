@@ -189,6 +189,7 @@
 - [How to Create a Self-Updating README.md for Your GitHub Profile | by Thomas Guibert | The Startup | Medium](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) 
 - [5 Free Push Notification Services | by Nazhim Kalam | Feb, 2022 | Enlear Academy](https://enlear.academy/5-free-push-notification-services-9e56e123455) 
 - [Word Portrait using CSS](https://kumarsonsoff.hashnode.dev/word-portrait-using-css) 
+- [Best Coding Practices In ReactJS - DZone Web Dev](https://dzone.com/articles/best-coding-practices-in-reactjs) 
 ### February 3, 2022 
 - [Make Smooth Page Transitions with React Router | by Noah Blumenstein | Jan, 2022 | Bits and Pieces](https://blog.bitsrc.io/make-smooth-fade-in-fade-out-page-transitions-with-react-router-8a39593f0b) 
 ### February 2, 2022 
