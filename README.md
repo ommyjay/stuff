@@ -191,6 +191,7 @@
 - [Word Portrait using CSS](https://kumarsonsoff.hashnode.dev/word-portrait-using-css) 
 - [Best Coding Practices In ReactJS - DZone Web Dev](https://dzone.com/articles/best-coding-practices-in-reactjs) 
 - [10 Tools and Websites That Make You a More Productive Developer | by Nicky Christensen | Feb, 2022 | Bits and Pieces](https://blog.bitsrc.io/10-tools-and-websites-that-make-you-a-more-productive-developer-904107fb13bd) 
+- [The best Logo Generator (completely free) - favicon.io](https://favicon.io/logo-generator/) 
 ### February 3, 2022 
 - [Make Smooth Page Transitions with React Router | by Noah Blumenstein | Jan, 2022 | Bits and Pieces](https://blog.bitsrc.io/make-smooth-fade-in-fade-out-page-transitions-with-react-router-8a39593f0b) 
 ### February 2, 2022 
