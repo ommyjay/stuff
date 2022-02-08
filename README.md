@@ -184,6 +184,9 @@
 
 
 
+
+### February 8, 2022 
+- [AdminJS is an admin panel for apps written in node.js](https://github.com/SoftwareBrothers/adminjs) 
 ### February 7, 2022 
 - [Awesome Github Profile](https://zzetao.github.io/awesome-github-profile/) 
 - [How to Create a Self-Updating README.md for Your GitHub Profile | by Thomas Guibert | The Startup | Medium](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) 
