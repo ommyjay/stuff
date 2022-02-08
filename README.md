@@ -189,6 +189,7 @@
 - [AdminJS is an admin panel for apps written in node.js](https://github.com/SoftwareBrothers/adminjs) 
 - [useReducer Hook to the rescue! - DEV Community 👩‍💻👨‍💻](https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48) 
 - [React Browser Notification vs. React Desktop Notification: Choosing the Right One for Your Needs](https://www.magicbell.com/blog/react-browser-notification-vs-react-desktop-notification) 
+- [react-web-notification: React component with HTML5 Web Notification API](https://github.com/mobilusoss/react-web-notification) 
 ### February 7, 2022 
 - [Awesome Github Profile](https://zzetao.github.io/awesome-github-profile/) 
 - [How to Create a Self-Updating README.md for Your GitHub Profile | by Thomas Guibert | The Startup | Medium](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) 
