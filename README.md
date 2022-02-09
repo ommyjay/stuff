@@ -190,6 +190,7 @@
 - [Pitch | Collaborative presentation software for modern teams](https://pitch.com/) 
 - [mobilusoss/react-web-notification: React component with HTML5 Web Notification API](https://github.com/mobilusoss/react-web-notification) 
 - [What is HMAC(Hash based Message Authentication Code)? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-hmachash-based-message-authentication-code/) 
+- [I Created a CLI to Cross-Post Your Articles On Dev, Hashnode, and Medium - DEV Community 👩‍💻👨‍💻](https://dev.to/shahednasser/i-created-a-cli-to-cross-post-your-articles-on-dev-hashnode-and-medium-5hn1) 
 ### February 8, 2022 
 - [AdminJS is an admin panel for apps written in node.js](https://github.com/SoftwareBrothers/adminjs) 
 - [useReducer Hook to the rescue! - DEV Community 👩‍💻👨‍💻](https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48) 
