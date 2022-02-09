@@ -185,6 +185,9 @@
 
 
 
+
+### February 9, 2022 
+- [Pitch | Collaborative presentation software for modern teams](https://pitch.com/) 
 ### February 8, 2022 
 - [AdminJS is an admin panel for apps written in node.js](https://github.com/SoftwareBrothers/adminjs) 
 - [useReducer Hook to the rescue! - DEV Community 👩‍💻👨‍💻](https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48) 
