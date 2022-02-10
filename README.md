@@ -191,6 +191,7 @@
 - [Sourcegraph for VS Code - Search millions of open source repos without leaving the IDE | Product Hunt](https://www.producthunt.com/posts/sourcegraph-for-vs-code) 
 - [9 JavaScript Design Patterns You Will Love | HackerNoon](https://hackernoon.com/9-javascript-design-patters-you-will-love) 
 - [How to safely render Markdown using react-markdown - LogRocket Blog](https://blog.logrocket.com/how-to-safely-render-markdown-using-react-markdown/) 
+- [Getting Started - Chakra UI](https://chakra-ui.com/docs/getting-started) 
 ### February 9, 2022 
 - [Pitch | Collaborative presentation software for modern teams](https://pitch.com/) 
 - [mobilusoss/react-web-notification: React component with HTML5 Web Notification API](https://github.com/mobilusoss/react-web-notification) 
