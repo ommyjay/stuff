@@ -186,6 +186,9 @@
 
 
 
+
+### February 10, 2022 
+- [Sourcegraph for VS Code - Search millions of open source repos without leaving the IDE | Product Hunt](https://www.producthunt.com/posts/sourcegraph-for-vs-code) 
 ### February 9, 2022 
 - [Pitch | Collaborative presentation software for modern teams](https://pitch.com/) 
 - [mobilusoss/react-web-notification: React component with HTML5 Web Notification API](https://github.com/mobilusoss/react-web-notification) 
