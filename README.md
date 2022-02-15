@@ -187,6 +187,9 @@
 
 
 
+
+### February 15, 2022 
+- [Stripe API reference – Idempotent Requests – curl](https://stripe.com/docs/api/idempotent_requests) 
 ### February 10, 2022 
 - [Sourcegraph for VS Code - Search millions of open source repos without leaving the IDE | Product Hunt](https://www.producthunt.com/posts/sourcegraph-for-vs-code) 
 - [9 JavaScript Design Patterns You Will Love | HackerNoon](https://hackernoon.com/9-javascript-design-patters-you-will-love) 
