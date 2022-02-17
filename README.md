@@ -188,6 +188,9 @@
 
 
 
+
+### February 17, 2022 
+- [linuswillner/react-console-emulator: 👨‍💻 A simple, powerful and highly customisable Unix terminal emulator for React.](https://github.com/linuswillner/react-console-emulator) 
 ### February 15, 2022 
 - [Stripe API reference – Idempotent Requests – curl](https://stripe.com/docs/api/idempotent_requests) 
 - [Stripe API reference – Idempotent Requests – curl](https://stripe.com/docs/api/idempotent_requests) 
