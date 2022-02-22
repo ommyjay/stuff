@@ -189,6 +189,9 @@
 
 
 
+
+### February 22, 2022 
+- [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
 - [linuswillner/react-console-emulator: 👨‍💻 A simple, powerful and highly customisable Unix terminal emulator for React.](https://github.com/linuswillner/react-console-emulator) 
 ### February 15, 2022 
