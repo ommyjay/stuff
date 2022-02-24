@@ -190,6 +190,9 @@
 
 
 
+
+### February 24, 2022 
+- [ A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto) 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
