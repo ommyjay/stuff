@@ -194,6 +194,7 @@
 
 ### February 25, 2022 
 - [My top 25 items in a senior engineer’s checklist | by Little Blah! | Medium](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2) 
+- [My top 25 items in a senior engineer’s checklist | by Little Blah! | Medium](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2) 
 ### February 24, 2022 
 - [ A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto) 
 ### February 22, 2022 
