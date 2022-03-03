@@ -1,5 +1,10 @@
 # stuff
+
 ### March 3, 2022 
+> ![Creating a Chrome extension with React and TypeScript - LogRocket Blog](https://blog.logrocket.com/wp-content/uploads/2019/06/cropped-cropped-favicon-196x196-32x32.png) 
+ > [Creating a Chrome extension with React and TypeScript - LogRocket Blog](https://blog.logrocket.com/creating-chrome-extension-react-typescript/) 
+
+      ### March 3, 2022 
 - [4 Coding Practices I’ve Picked Up Working for a Startup | HackerNoon](https://hackernoon.com/4-coding-practices-ive-picked-up-working-for-a-startup?source=rss) 
 - [Change the website favicon - HTML DOM](https://htmldom.dev/change-the-website-favicon/) 
 ### March 2, 2022 
