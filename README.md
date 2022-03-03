@@ -196,6 +196,7 @@
 
 ### March 3, 2022 
 - [4 Coding Practices I’ve Picked Up Working for a Startup | HackerNoon](https://hackernoon.com/4-coding-practices-ive-picked-up-working-for-a-startup?source=rss) 
+- [Change the website favicon - HTML DOM](https://htmldom.dev/change-the-website-favicon/) 
 ### March 2, 2022 
 - [ommyjay/stuff](https://github.com/ommyjay/stuff) 
 - [Creating a Chrome extension with React and TypeScript - LogRocket Blog](https://blog.logrocket.com/creating-chrome-extension-react-typescript/) 
