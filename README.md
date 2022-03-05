@@ -17,6 +17,9 @@
 
 <img src="https://stripe.com/favicon_ref.png" alt="Stripe API reference – Idempotent Requests – curl" style="width:15px;margin-bottom: -2px;"/> [Stripe API reference – Idempotent Requests – curl](https://stripe.com/docs/api/idempotent_requests) 
 > Complete reference documentation for the Stripe API. Includes code snippets and examples for our Python, Java, PHP, Node.js, Go, Ruby, and .NET libraries. 
+
+<img src="https://wd.imgix.net/image/foR0vJZKULb5AGJExlazy1xYDgI2/xvNiBdV0ZwwLUE4SEdbf.png?auto=format&w=1521" alt="chrome.tabs - Chrome Developers" style="width:15px;margin-bottom: -2px;"/> [chrome.tabs - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/tabs/) 
+> Build the next generation of web experiences. 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
