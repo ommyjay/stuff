@@ -1,6 +1,10 @@
 # stuff
 
-### February 25, 2022 
+
+### March 5, 2022 
+![Editing the liker extension + multiple article push – Medium](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png) [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
+>  You are currently editing the liker extension + multiple article push. 
+ */### February 25, 2022 
 - [My top 25 items in a senior engineer’s checklist | by Little Blah! | Medium](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2) 
 - [My top 25 items in a senior engineer’s checklist | by Little Blah! | Medium](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2) 
 - [kilimchoi/engineering-blogs: A curated list of engineering blogs](https://github.com/kilimchoi/engineering-blogs) 
