@@ -1,25 +1,5 @@
 # stuff
 
-
-### March 5, 2022 
-<img src="https://cdn.freecodecamp.org/universal/favicons/favicon.ico" alt="What is Tailwind CSS and How Can I Add it to my Website or React App?" style="width:15px;margin-bottom: -2px;"/> [What is Tailwind CSS and How Can I Add it to my Website or React App?](https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/) 
-> CSS is a technology that can be your best or worst friend. While it's incredibly flexible and can produce what seems like magic, without the proper care and attention, it can become hard to manage like any other code.  How can Tailwind CSS help us to take control of 
-
- <img src="https://tailwindui.com/favicon.ico?v=1" alt="Tailwind UI - Official Tailwind CSS Components" style="width:15px;margin-bottom: -2px;"/> [Tailwind UI - Official Tailwind CSS Components](https://tailwindui.com/preview) 
-> Experience Tailwind UI 
-
- <img src="https://developer.chrome.com/images/meta/favicon-32x32.png" alt="chrome.storage - Chrome Developers" style="width:15px;margin-bottom: -2px;"/> [chrome.storage - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/storage/) 
-> Build the next generation of web experiences. 
-
-<img src="https://pbs.twimg.com/profile_images/1499350549883408392/cUJK_zn__normal.jpg" alt="(1) Media Tweets by FEU (@iciAvecLu) / Twitter" style="width:15px;margin-bottom: -2px;"/> [(1) Media Tweets by FEU (@iciAvecLu) / Twitter](https://twitter.com/iciAvecLu/media) 
-> Follow my instagram business page https://t.co/R1Uwqvq8v0 let’s drip 💧 together 
-
-<img src="https://pbs.twimg.com/profile_images/1499350549883408392/cUJK_zn__normal.jpg" alt="(1) Media Tweets by FEU (@iciAvecLu) / Twitter" style="width:15px;margin-bottom: -2px;"/> [(1) Media Tweets by FEU (@iciAvecLu) / Twitter](https://twitter.com/iciAvecLu/media) 
-> Follow my instagram business page https://t.co/R1Uwqvq8v0 let’s drip 💧 together 
-
-<img src="https://pbs.twimg.com/profile_images/1499350549883408392/cUJK_zn__normal.jpg" alt="(1) Media Tweets by FEU (@iciAvecLu) / Twitter" style="width:15px;margin-bottom: -2px;"/> [(1) Media Tweets by FEU (@iciAvecLu) / Twitter](https://twitter.com/iciAvecLu/media) 
-> Follow my instagram business page https://t.co/R1Uwqvq8v0 let’s drip 💧 together 
-- [What is Tailwind CSS and How Can I Add it to my Website or React App?](https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/) 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
