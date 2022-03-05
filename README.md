@@ -32,6 +32,9 @@
 
 <img src="https://wd.imgix.net/image/foR0vJZKULb5AGJExlazy1xYDgI2/xvNiBdV0ZwwLUE4SEdbf.png?auto=format&w=1521" alt="chrome.storage - Chrome Developers" style="width:15px;margin-bottom: -2px;"/> [chrome.storage - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/storage/) 
 > Build the next generation of web experiences. 
+
+<img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" alt="Editing the liker extension + multiple article push – Medium" style="width:15px;margin-bottom: -2px;"/> [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
+> You are currently editing the liker extension + multiple article push. 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
