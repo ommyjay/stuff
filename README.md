@@ -10,6 +10,9 @@
  */
  ![Editing the liker extension + multiple article push – Medium](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png) [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
 >  You are currently editing the liker extension + multiple article push. 
+ */
+ ![Editing the liker extension + multiple article push – Medium](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png) [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
+>  You are currently editing the liker extension + multiple article push. 
  */### February 24, 2022 
 - [ A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto) 
 ### February 22, 2022 
