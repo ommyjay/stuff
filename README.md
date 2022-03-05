@@ -16,6 +16,9 @@
 
 <img src="https://pbs.twimg.com/profile_images/1499350549883408392/cUJK_zn__normal.jpg" alt="(1) Media Tweets by FEU (@iciAvecLu) / Twitter" style="width:15px;margin-bottom: -2px;"/> [(1) Media Tweets by FEU (@iciAvecLu) / Twitter](https://twitter.com/iciAvecLu/media) 
 > Follow my instagram business page https://t.co/R1Uwqvq8v0 let’s drip 💧 together 
+
+<img src="https://pbs.twimg.com/profile_images/1499350549883408392/cUJK_zn__normal.jpg" alt="(1) Media Tweets by FEU (@iciAvecLu) / Twitter" style="width:15px;margin-bottom: -2px;"/> [(1) Media Tweets by FEU (@iciAvecLu) / Twitter](https://twitter.com/iciAvecLu/media) 
+> Follow my instagram business page https://t.co/R1Uwqvq8v0 let’s drip 💧 together 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
