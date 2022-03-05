@@ -1,5 +1,9 @@
 # stuff
 
+
+### March 5, 2022 
+![What is Tailwind CSS and How Can I Add it to my Website or React App?](https://cdn.freecodecamp.org/universal/favicons/favicon.ico) [What is Tailwind CSS and How Can I Add it to my Website or React App?](https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/) 
+> CSS is a technology that can be your best or worst friend. While it's incredibly flexible and can produce what seems like magic, without the proper care and attention, it can become hard to manage like any other code.  How can Tailwind CSS help us to take control of 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
