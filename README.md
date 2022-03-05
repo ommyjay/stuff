@@ -29,6 +29,9 @@
 
 <img src="https://www.freecodecamp.org/news/content/images/2020/05/tailwind-1.jpg" alt="What is Tailwind CSS and How Can I Add it to my Website or React App?" style="width:15px;margin-bottom: -2px;"/> [What is Tailwind CSS and How Can I Add it to my Website or React App?](https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/) 
 > CSS is a technology that can be your best or worst friend. While it's incredibly flexible and can produce what seems like magic, without the proper care and attention, it can become hard to manage like any other code.  How can Tailwind CSS help us to take control of 
+
+<img src="https://wd.imgix.net/image/foR0vJZKULb5AGJExlazy1xYDgI2/xvNiBdV0ZwwLUE4SEdbf.png?auto=format&w=1521" alt="chrome.storage - Chrome Developers" style="width:15px;margin-bottom: -2px;"/> [chrome.storage - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/storage/) 
+> Build the next generation of web experiences. 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
