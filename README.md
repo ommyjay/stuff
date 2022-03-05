@@ -11,6 +11,9 @@
 
 <img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" alt="Instagram" style="width:15px;margin-bottom: -2px;"/> [Instagram](https://www.instagram.com/) 
 > Instagram 
+
+<img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" alt="him | hipster | introvert (@ommyjay) • Instagram photos and videos" style="width:15px;margin-bottom: -2px;"/> [him | hipster | introvert (@ommyjay) • Instagram photos and videos](https://www.instagram.com/ommyjay/) 
+> him | hipster | introvert (@ommyjay) • Instagram photos and videos 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
