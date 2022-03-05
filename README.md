@@ -86,6 +86,9 @@
 
 <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" alt="Editing the liker extension + multiple article push – Medium" style="width:15px;margin-bottom: -2px;"/> [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
 > You are currently editing the liker extension + multiple article push. 
+
+<img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" alt="Editing the liker extension + multiple article push – Medium" style="width:15px;margin-bottom: -2px;"/> [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
+> You are currently editing the liker extension + multiple article push. 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
