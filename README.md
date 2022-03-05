@@ -8,6 +8,9 @@
 <img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Home / Twitter" style="width:15px;margin-bottom: -2px;"/> [Home / Twitter](https://twitter.com/home) 
 > 
  Your Home Timeline 
+
+<img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" alt="Instagram" style="width:15px;margin-bottom: -2px;"/> [Instagram](https://www.instagram.com/) 
+> Instagram 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
