@@ -23,6 +23,9 @@
 
 <img src="https://www.freecodecamp.org/news/content/images/2020/05/tailwind-1.jpg" alt="What is Tailwind CSS and How Can I Add it to my Website or React App?" style="width:15px;margin-bottom: -2px;"/> [What is Tailwind CSS and How Can I Add it to my Website or React App?](https://www.freecodecamp.org/news/what-is-tailwind-css-and-how-can-i-add-it-to-my-website-or-react-app/) 
 > CSS is a technology that can be your best or worst friend. While it's incredibly flexible and can produce what seems like magic, without the proper care and attention, it can become hard to manage like any other code.  How can Tailwind CSS help us to take control of 
+
+<img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" alt="Editing the liker extension + multiple article push – Medium" style="width:15px;margin-bottom: -2px;"/> [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
+> You are currently editing the liker extension + multiple article push. 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
