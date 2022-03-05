@@ -7,6 +7,9 @@
 
  <img src="https://tailwindui.com/favicon.ico?v=1" alt="Tailwind UI - Official Tailwind CSS Components" style="width:15px;margin-bottom: -2px;"/> [Tailwind UI - Official Tailwind CSS Components](https://tailwindui.com/preview) 
 > Experience Tailwind UI 
+
+ <img src="https://developer.chrome.com/images/meta/favicon-32x32.png" alt="chrome.storage - Chrome Developers" style="width:15px;margin-bottom: -2px;"/> [chrome.storage - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/storage/) 
+> Build the next generation of web experiences. 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
