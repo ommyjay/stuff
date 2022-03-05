@@ -1,5 +1,9 @@
 # stuff
 
+
+### March 5, 2022 
+<img src="https://developer.chrome.com/images/meta/favicon-32x32.png" alt="Give users options - Chrome Developers" style="width:20px;"/> [Give users options - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/options/) 
+> How to let users customize your Extension. 
 ### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
