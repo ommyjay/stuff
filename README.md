@@ -1,6 +1,10 @@
 # stuff
 
-### February 22, 2022 
+
+### March 5, 2022 
+![chrome.storage - Chrome Developers](https://developer.chrome.com/images/meta/favicon-32x32.png) [chrome.storage - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/storage/) 
+>  Build the next generation of web experiences. 
+ */### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
 - [linuswillner/react-console-emulator: 👨‍💻 A simple, powerful and highly customisable Unix terminal emulator for React.](https://github.com/linuswillner/react-console-emulator) 
