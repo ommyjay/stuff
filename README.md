@@ -6,7 +6,9 @@
 >  Build the next generation of web experiences. 
 ![Editing the liker extension + multiple article push – Medium](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png) [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
 >  You are currently editing the liker extension + multiple article push. 
- ### February 22, 2022 
+ ![Editing the liker extension + multiple article push – Medium](https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png) [Editing the liker extension + multiple article push – Medium](https://medium.com/p/8be01d2f415d/edit) 
+> You are currently editing the liker extension + multiple article push. 
+### February 22, 2022 
 - [5 Key Lessons from Camille Fournier's book, "The Manager's Path"](https://getlighthouse.com/blog/camille-fournier-lessons-managers-path/) 
 ### February 17, 2022 
 - [linuswillner/react-console-emulator: 👨‍💻 A simple, powerful and highly customisable Unix terminal emulator for React.](https://github.com/linuswillner/react-console-emulator) 
