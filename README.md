@@ -1,6 +1,9 @@
 # stuff
 
 
+
+### March 10, 2022 
+- [Send Emails with Amazon SES, Part 2: SES Template with Lists | by Shivanjali Nimbalkar | Intelliconnect Engineering | Medium](https://medium.com/intelliconnect-engineering/send-emails-with-amazon-ses-part2-ses-template-with-lists-5b69552598b6) 
 ### March 5, 2022 
 <img src="https://pbs.twimg.com/profile_images/1499350549883408392/cUJK_zn__normal.jpg" alt="(1) Media Tweets by FEU (@iciAvecLu) / Twitter" style="width:15px;margin-bottom: -2px;"/> [(1) Media Tweets by FEU (@iciAvecLu) / Twitter](https://twitter.com/iciAvecLu/media) 
 > Follow my instagram business page https://t.co/R1Uwqvq8v0 let’s drip 💧 together 
