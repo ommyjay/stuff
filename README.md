@@ -2,6 +2,9 @@
 
 
 
+
+### March 11, 2022 
+- [5 Things To Know Before You Write Optimized Code | by Shalitha Suranga | Level Up Coding](https://levelup.gitconnected.com/5-things-to-know-before-you-write-optimized-code-3ca424110db1) 
 ### March 10, 2022 
 - [Send Emails with Amazon SES, Part 2: SES Template with Lists | by Shivanjali Nimbalkar | Intelliconnect Engineering | Medium](https://medium.com/intelliconnect-engineering/send-emails-with-amazon-ses-part2-ses-template-with-lists-5b69552598b6) 
 ### March 5, 2022 
