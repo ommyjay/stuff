@@ -3,6 +3,10 @@
 
 
 
+
+### March 12, 2022 
+<img src="https://images.ctfassets.net/cjwb7umaxoxv/1GSYgfBxev0WGeJnUeyZMR/bc046f5b02192965f77c41df5c379d30/MOSHED-2020-8-3-12-2-42.jpg?w=600&fl=progressive&q=85" alt="Are You Really Open Minded? A Refresher on Finding the Best Solutions to Problems | .cult by Honeypot" style="width:15px;margin-bottom: -2px;"/> [Are You Really Open Minded? A Refresher on Finding the Best Solutions to Problems | .cult by Honeypot](https://cult.honeypot.io/reads/how-to-find-solutions/) 
+> Have you ever been in heated discussions with friends or family that cause your blood to pump through your body? Your ego causes you to respond this way 
 ### March 11, 2022 
 - [5 Things To Know Before You Write Optimized Code | by Shalitha Suranga | Level Up Coding](https://levelup.gitconnected.com/5-things-to-know-before-you-write-optimized-code-3ca424110db1) 
 - [Create Your Own Private NPM Package Using Verdaccio - YouTube](https://www.youtube.com/watch?v=Co0RwdpEsag&ab_channel=thedevlife) 
