@@ -7,6 +7,7 @@
 
 ### March 15, 2022 
 - [How to measure Lead time for changes?](https://blog.codacy.com/how-to-measure-lead-time-for-changes/?utm_campaign=lead-time-for-changes&utm_medium=email&_hsmi=206742092&_hsenc=p2ANqtz-9JEURMRhxuurqzOTHj8893XOztHiHMa0VEdxd5ESXWYjGKQ13OQLgSDMKUpLzDOOZWzE1Ua1a2Fu4-FEbS-FpdUTg-DQ&utm_source=email) 
+- [Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=YhIBVzSEDpo&t=57s&ab_channel=AWSOnlineTechTalks) 
 ### March 12, 2022 
 <img src="https://images.ctfassets.net/cjwb7umaxoxv/1GSYgfBxev0WGeJnUeyZMR/bc046f5b02192965f77c41df5c379d30/MOSHED-2020-8-3-12-2-42.jpg?w=600&fl=progressive&q=85" alt="Are You Really Open Minded? A Refresher on Finding the Best Solutions to Problems | .cult by Honeypot" style="width:15px;margin-bottom: -2px;"/> [Are You Really Open Minded? A Refresher on Finding the Best Solutions to Problems | .cult by Honeypot](https://cult.honeypot.io/reads/how-to-find-solutions/) 
 > Have you ever been in heated discussions with friends or family that cause your blood to pump through your body? Your ego causes you to respond this way 
