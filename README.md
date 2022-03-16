@@ -8,6 +8,7 @@
 
 ### March 16, 2022 
 - [How to use the history command in Linux | Opensource.com](https://opensource.com/article/18/6/history-command) 
+- [How to use the history command in Linux | Opensource.com](https://opensource.com/article/18/6/history-command) 
 ### March 15, 2022 
 - [How to measure Lead time for changes?](https://blog.codacy.com/how-to-measure-lead-time-for-changes/?utm_campaign=lead-time-for-changes&utm_medium=email&_hsmi=206742092&_hsenc=p2ANqtz-9JEURMRhxuurqzOTHj8893XOztHiHMa0VEdxd5ESXWYjGKQ13OQLgSDMKUpLzDOOZWzE1Ua1a2Fu4-FEbS-FpdUTg-DQ&utm_source=email) 
 - [Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=YhIBVzSEDpo&t=57s&ab_channel=AWSOnlineTechTalks) 
