@@ -6,6 +6,9 @@
 
 
 
+
+### March 17, 2022 
+- [10 Engineering Blogs I Read to Stay Up to Date with Technology Trends | by Karan Jagota | Jan, 2022 | JavaScript in Plain English](https://medium.com/javascript-in-plain-english/10-engineering-blogs-i-read-to-stay-up-to-date-with-technology-trends-faa006460fd9) 
 ### March 16, 2022 
 - [How to use the history command in Linux | Opensource.com](https://opensource.com/article/18/6/history-command) 
 - [How to use the history command in Linux | Opensource.com](https://opensource.com/article/18/6/history-command) 
