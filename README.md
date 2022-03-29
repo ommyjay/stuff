@@ -9,6 +9,10 @@
 
 
 
+
+### March 30, 2022 
+<img src="https://a.slack-edge.com/80588/img/services/api_200.png" alt="Permission scopes | Slack" style="width:15px;margin-bottom: -2px;"/> [Permission scopes | Slack](https://api.slack.com/scopes) 
+> The capabilities and permissions of Slack apps are governed by named scopes. 
 ### March 29, 2022 
 <img src="https://d75afklyimq5v.cloudfront.net/social/og.png" alt="Input object type as an argument for GraphQL mutations and queries" style="width:15px;margin-bottom: -2px;"/> [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries) 
 > How to use input object type for your mutation. How to design GraphQL mutations. Passing variables as an input object type. 
