@@ -16,6 +16,9 @@
 
 <img src="https://d75afklyimq5v.cloudfront.net/social/og.png" alt="Input object type as an argument for GraphQL mutations and queries" style="width:15px;margin-bottom: -2px;"/> [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries) 
 > How to use input object type for your mutation. How to design GraphQL mutations. Passing variables as an input object type. 
+
+<img src="https://res.cloudinary.com/codersociety/image/fetch/w_1200,h_630,c_fill/https://cdn.development.codersociety.com/uploads/the-twelve-factor-app-1.png" alt="Revisiting the Twelve-Factor App Methodology — Coder Society" style="width:15px;margin-bottom: -2px;"/> [Revisiting the Twelve-Factor App Methodology — Coder Society](https://codersociety.com/blog/articles/twelve-factor-app-methodology) 
+> The Twelve-Factor App Methodology has been around for a decade now. But how relevant and important are these guidelines today? Here, we examine just how well they’ve held up in addressing architectural, deployment, and operational concerns in building software at scale. 
 ### March 29, 2022 
 <img src="https://d75afklyimq5v.cloudfront.net/social/og.png" alt="Input object type as an argument for GraphQL mutations and queries" style="width:15px;margin-bottom: -2px;"/> [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries) 
 > How to use input object type for your mutation. How to design GraphQL mutations. Passing variables as an input object type. 
