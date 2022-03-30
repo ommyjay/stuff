@@ -31,6 +31,9 @@
 
 <img src="https://assets.website-files.com/5c73bbfe3312822f153dd310/603567d12f189454e5dfc114_how-to-manage-environment-variables.jpg" alt="How To Manage Environment Variables? | Humanitec" style="width:15px;margin-bottom: -2px;"/> [How To Manage Environment Variables? | Humanitec](https://humanitec.com/blog/how-to-manage-environment-variables) 
 > How to manage environment variables? Read the full interview with DevOps Engineer Antoine Rougeot about the fear to break things, teams struggling with Microservice setups, and some hot tips. 
+
+<img src="/vagrant/img/og-image.png" alt="Vagrant by HashiCorp" style="width:15px;margin-bottom: -2px;"/> [Vagrant by HashiCorp](https://www.vagrantup.com/) 
+> Vagrant enables users to create and configure lightweight, reproducible, and portable development environments. 
 ### March 29, 2022 
 <img src="https://d75afklyimq5v.cloudfront.net/social/og.png" alt="Input object type as an argument for GraphQL mutations and queries" style="width:15px;margin-bottom: -2px;"/> [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries) 
 > How to use input object type for your mutation. How to design GraphQL mutations. Passing variables as an input object type. 
