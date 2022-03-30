@@ -28,6 +28,9 @@
 
 <img src="https://miro.medium.com/max/1200/1*csoips0uQJqjzzHN1LweGg.png" alt="Node.js Best Practices — Smarter Ways to Manage Config Files and Variables | by Raj Chaudhary | codeburst" style="width:15px;margin-bottom: -2px;"/> [Node.js Best Practices — Smarter Ways to Manage Config Files and Variables | by Raj Chaudhary | codeburst](https://codeburst.io/node-js-best-practices-smarter-ways-to-manage-config-files-and-variables-893eef56cbef) 
 > I find the practice of creating separate Node.js config files to manage config variables for different environments (development, testing, staging and production) cumbersome. So I ended up with a… 
+
+<img src="https://assets.website-files.com/5c73bbfe3312822f153dd310/603567d12f189454e5dfc114_how-to-manage-environment-variables.jpg" alt="How To Manage Environment Variables? | Humanitec" style="width:15px;margin-bottom: -2px;"/> [How To Manage Environment Variables? | Humanitec](https://humanitec.com/blog/how-to-manage-environment-variables) 
+> How to manage environment variables? Read the full interview with DevOps Engineer Antoine Rougeot about the fear to break things, teams struggling with Microservice setups, and some hot tips. 
 ### March 29, 2022 
 <img src="https://d75afklyimq5v.cloudfront.net/social/og.png" alt="Input object type as an argument for GraphQL mutations and queries" style="width:15px;margin-bottom: -2px;"/> [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries) 
 > How to use input object type for your mutation. How to design GraphQL mutations. Passing variables as an input object type. 
