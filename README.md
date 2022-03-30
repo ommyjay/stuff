@@ -34,6 +34,10 @@
 
 <img src="/vagrant/img/og-image.png" alt="Vagrant by HashiCorp" style="width:15px;margin-bottom: -2px;"/> [Vagrant by HashiCorp](https://www.vagrantup.com/) 
 > Vagrant enables users to create and configure lightweight, reproducible, and portable development environments. 
+
+<img src="https://will.koffel.org/img/icons/favicon.ico" alt="12 Factor Apps in Plain English · Will Koffel" style="width:15px;margin-bottom: -2px;"/> [12 Factor Apps in Plain English · Will Koffel](https://will.koffel.org/post/2014/12-factor-apps-in-plain-english/) 
+> Popular platform-as-a-service provider Heroku (now a subsidiary of Salesforce…fancy that…) maintains a manifesto of sorts called The Twelve-Factor App. It outlines a methodology for developers to follow when building modern web-based applications. Despite being partly self-serving (apps built like this will translate more naturally to running on Heroku), there’s a lot of meaty best-practices worth examining.
+Strive for These Best Practices I think these concepts are important for readers of ClearlyTech, even if you aren’t the developer! 
 ### March 29, 2022 
 <img src="https://d75afklyimq5v.cloudfront.net/social/og.png" alt="Input object type as an argument for GraphQL mutations and queries" style="width:15px;margin-bottom: -2px;"/> [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries) 
 > How to use input object type for your mutation. How to design GraphQL mutations. Passing variables as an input object type. 
