@@ -22,6 +22,9 @@
 
 <img src="https://kislayverma.com/wp-content/uploads/2022/02/caching-why-use-cache.jpg" alt="Architecture Patterns: Caching (Part-1) | Kislay Verma" style="width:15px;margin-bottom: -2px;"/> [Architecture Patterns: Caching (Part-1) | Kislay Verma](https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/) 
 > The first of an introduction to the use of caching in system design and some nuances on how it works in real-world architectures 
+
+<img src="https://assets-global.website-files.com/5f03ef1d331a69193fae6dcd/5fe157ae11191944ed5ae9d8_guide_to_magic_link.png" alt="A guide to magic links: how they work and why you should use them | WorkOS" style="width:15px;margin-bottom: -2px;"/> [A guide to magic links: how they work and why you should use them | WorkOS](https://workos.com/blog/a-guide-to-magic-links) 
+> A guide to magic links: the how they work and why you should use them. We’ll take a deep dive into how magic links work from a technical, security, and UX perspective. 
 ### March 29, 2022 
 <img src="https://d75afklyimq5v.cloudfront.net/social/og.png" alt="Input object type as an argument for GraphQL mutations and queries" style="width:15px;margin-bottom: -2px;"/> [Input object type as an argument for GraphQL mutations and queries](https://atheros.ai/blog/input-object-type-as-an-argument-for-graphql-mutations-and-queries) 
 > How to use input object type for your mutation. How to design GraphQL mutations. Passing variables as an input object type. 
