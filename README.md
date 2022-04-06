@@ -10,6 +10,12 @@
 
 
 
+
+### April 6, 2022 
+<img src="https://pbs.twimg.com/media/FPmwS-6XoAASsWD.jpg:large" alt="Haz on Twitter: "Protip if you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs. This is much faster than uploading/downloading artifacts. https://t.co/0LDn3CGBlE" / Twitter" style="width:15px;margin-bottom: -2px;"/> [Haz on Twitter: "Protip if you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs. This is much faster than uploading/downloading artifacts. https://t.co/0LDn3CGBlE" / Twitter](https://twitter.com/diegohaz/status/1511433132930707457) 
+> “Protip if you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs.
+
+This is much faster than uploading/downloading artifacts.” 
 ### March 30, 2022 
 <img src="https://a.slack-edge.com/80588/img/services/api_200.png" alt="Permission scopes | Slack" style="width:15px;margin-bottom: -2px;"/> [Permission scopes | Slack](https://api.slack.com/scopes) 
 > The capabilities and permissions of Slack apps are governed by named scopes. 
