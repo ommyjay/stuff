@@ -18,6 +18,9 @@
 
 <img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="globby - npm" style="width:15px;margin-bottom: -2px;"/> [globby - npm](https://www.npmjs.com/package/globby) 
 > User-friendly glob matching. Latest version: 13.1.1, last published: 2 months ago. Start using globby in your project by running `npm i globby`. There are 5805 other projects in the npm registry using globby. 
+
+<img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="prettier-standard - npm" style="width:15px;margin-bottom: -2px;"/> [prettier-standard - npm](https://www.npmjs.com/package/prettier-standard) 
+> Prettier and standard brought together!. Latest version: 16.4.1, last published: 2 years ago. Start using prettier-standard in your project by running `npm i prettier-standard`. There are 35 other projects in the npm registry using prettier-standard. 
 ### April 6, 2022 
 <img src="https://pbs.twimg.com/media/FPmwS-6XoAASsWD.jpg:large" alt="Haz on Twitter: "Protip if you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs. This is much faster than uploading/downloading artifacts. https://t.co/0LDn3CGBlE" / Twitter" style="width:15px;margin-bottom: -2px;"/> [Haz on Twitter: "Protip if you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs. This is much faster than uploading/downloading artifacts. https://t.co/0LDn3CGBlE" / Twitter](https://twitter.com/diegohaz/status/1511433132930707457) 
 > “Protip if you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs.
