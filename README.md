@@ -16,6 +16,9 @@
 ### April 18, 2022 
 <img src="https://zos.alipayobjects.com/rmsportal/wIjMDnsrDoPPcIV.png" alt="Ant Design Mobile - Mobile Design Specification" style="width:15px;margin-bottom: -2px;"/> [Ant Design Mobile - Mobile Design Specification](https://rn.mobile.ant.design/) 
 > Ant Design Mobile - Mobile Design Specification 
+
+<img src="https://miro.medium.com/max/1200/1*poemZplwp-3MU-twHJ-mBw@2x.png" alt="Top 10 Algorithms to Improve your JavaScript Skills🚀 🦄 | by CodeHero | JavaScript in Plain English" style="width:15px;margin-bottom: -2px;"/> [Top 10 Algorithms to Improve your JavaScript Skills🚀 🦄 | by CodeHero | JavaScript in Plain English](https://medium.com/javascript-in-plain-english/top-10-algorithms-improve-your-javascript-skills-21507c25ff7) 
+> More content at plainenglish.io. Sign up for our free weekly newsletter. Get exclusive access to writing opportunities and advice in our community Discord. 
 ### April 10, 2022 
 <img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="chalk - npm" style="width:15px;margin-bottom: -2px;"/> [chalk - npm](https://www.npmjs.com/package/chalk) 
 > Terminal string styling done right. Latest version: 5.0.1, last published: a month ago. Start using chalk in your project by running `npm i chalk`. There are 80169 other projects in the npm registry using chalk. 
