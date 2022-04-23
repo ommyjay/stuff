@@ -17,6 +17,9 @@
 ### April 23, 2022 
 <img src="https://miro.medium.com/max/1200/1*1uYjUmTtjGOys3wOssW_6A.jpeg" alt="How to create a Micro Frontend application using React | by Richard Bell | Geek Culture | Medium" style="width:15px;margin-bottom: -2px;"/> [How to create a Micro Frontend application using React | by Richard Bell | Geek Culture | Medium](https://medium.com/geekculture/how-to-create-a-micro-frontend-application-using-react-ef88c38b2fe6) 
 > Simple step by step guide to get a run time React micro frontend up and running 
+
+<img src="https://opengraph.githubassets.com/2c3ee054a2263401a09e5ab405dffb00f9bb90093f200ddd3c1af3c82d694886/Jessinra/READING-general-programming-books" alt="READING-general-programming-books/Code at master · Jessinra/READING-general-programming-books" style="width:15px;margin-bottom: -2px;"/> [READING-general-programming-books/Code at master · Jessinra/READING-general-programming-books](https://github.com/Jessinra/READING-general-programming-books/tree/master/Code) 
+> Contribute to Jessinra/READING-general-programming-books development by creating an account on GitHub. 
 ### April 18, 2022 
 <img src="https://zos.alipayobjects.com/rmsportal/wIjMDnsrDoPPcIV.png" alt="Ant Design Mobile - Mobile Design Specification" style="width:15px;margin-bottom: -2px;"/> [Ant Design Mobile - Mobile Design Specification](https://rn.mobile.ant.design/) 
 > Ant Design Mobile - Mobile Design Specification 
