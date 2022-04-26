@@ -17,7 +17,7 @@
 
 
 ### April 26, 2022 
-<img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" Twitter" style="width:15px;margin-bottom: -2px;"/> [Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" / Twitter](https://twitter.com/DailyDevTips1/status/1518545863408242690) 
+<img src="https://abs.twimg.com/favicons/twitter.2.ico" style="width:15px;margin-bottom: -2px;"/> [Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" / Twitter](https://twitter.com/DailyDevTips1/status/1518545863408242690) 
 > “How do you document your learnings in tech? 👨‍🏫” 
 
 ### April 24, 2022 
