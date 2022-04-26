@@ -27,6 +27,9 @@
 Let's say I have two GitHub Secrets:
 SECRET_ORANGES : "This is an orange secret"
 SECRET_APPLES : "This is an a... 
+
+<img src="https://cdn.buymeacoffee.com/assets/homepage/meta/apple-icon-120x120.png" alt="FAQ | Buy Me a Coffee" style="width:15px;margin-bottom: -2px;"/> [FAQ | Buy Me a Coffee](https://www.buymeacoffee.com/faq) 
+> Learn more about Buy Me a Coffee, our features, and answers to the most frequently asked questions. 
 ### April 24, 2022 
 <img src="https://miro.medium.com/max/1200/1*DrJMgACLY9QiSTsJNuI4vA.jpeg" alt="Beautify your GitHub repo. Whether you like it or not, GitHub has… | by Nicolas Fränkel | Apr, 2022 | ITNEXT" style="width:15px;margin-bottom: -2px;"/> [Beautify your GitHub repo. Whether you like it or not, GitHub has… | by Nicolas Fränkel | Apr, 2022 | ITNEXT](https://itnext.io/beautify-github-repo-7348b1971899) 
 > Whether you like it or not, GitHub has become the primary provider to host one’s code. You or your company is probably using GitHub. I want to highlight some files to beautify your GitHub repository… 
