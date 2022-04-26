@@ -17,11 +17,9 @@
 
 
 ### April 26, 2022 
-<img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" / Twitter" style="width:15px;margin-bottom: -2px;"/> [Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" / Twitter](https://twitter.com/DailyDevTips1/status/1518545863408242690) 
+<img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" Twitter" style="width:15px;margin-bottom: -2px;"/> [Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" / Twitter](https://twitter.com/DailyDevTips1/status/1518545863408242690) 
 > “How do you document your learnings in tech? 👨‍🏫” 
 
-<img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" / Twitter" style="width:15px;margin-bottom: -2px;"/> [Chris Bongers 🤓💻⚡️ on Twitter: "How do you document your learnings in tech? 👨‍🏫" / Twitter](https://twitter.com/DailyDevTips1/status/1518545863408242690) 
-> “How do you document your learnings in tech? 👨‍🏫” 
 ### April 24, 2022 
 <img src="https://miro.medium.com/max/1200/1*DrJMgACLY9QiSTsJNuI4vA.jpeg" alt="Beautify your GitHub repo. Whether you like it or not, GitHub has… | by Nicolas Fränkel | Apr, 2022 | ITNEXT" style="width:15px;margin-bottom: -2px;"/> [Beautify your GitHub repo. Whether you like it or not, GitHub has… | by Nicolas Fränkel | Apr, 2022 | ITNEXT](https://itnext.io/beautify-github-repo-7348b1971899) 
 > Whether you like it or not, GitHub has become the primary provider to host one’s code. You or your company is probably using GitHub. I want to highlight some files to beautify your GitHub repository… 
