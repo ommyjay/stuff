@@ -21,6 +21,10 @@
 ### April 28, 2022 
 <img src="https://www.figma.com/file/raTJ2wDErnhqcKHv20U0Pw/thumbnail?ver=thumbnails/79028077-c0e3-4302-b746-6ec29769d1fe" alt="Buddr - Business – Figma" style="width:15px;margin-bottom: -2px;"/> [Buddr - Business – Figma](https://www.figma.com/file/raTJ2wDErnhqcKHv20U0Pw/Buddr---Business?node-id=0%3A1) 
 > Created with Figma 
+
+<img src="https://backstage.io/img/sharing-opengraph.png" alt="Backstage Software Catalog and Developer Platform · An open platform for building developer portals" style="width:15px;margin-bottom: -2px;"/> [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/nominate) 
+> Contributor Spotlight nomination
+ 
 ### April 27, 2022 
 <img src="https://miro.medium.com/max/1200/1*vD4mY6iEQ34HTcAYyPTlnw.png" alt="Asynchronous State Management With React-Query | by David Van Fleet | Apr, 2022 | Better Programming" style="width:15px;margin-bottom: -2px;"/> [Asynchronous State Management With React-Query | by David Van Fleet | Apr, 2022 | Better Programming](https://betterprogramming.pub/asynchronous-state-management-with-react-query-a9937457ed5e) 
 > Take a moment to think of the shared state in your latest React project. For most apps, this may include the currently logged-in user. A blog application may include all available blog posts or all… 
