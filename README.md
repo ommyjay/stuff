@@ -31,6 +31,9 @@
 
 <img src="https://queue.acm.org/favicon.ico" alt="The SPACE of Developer Productivity - ACM Queue" style="width:15px;margin-bottom: -2px;"/> [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124) 
 > This article explicates several common myths and misconceptions about developer productivity. The most important takeaway from exposing these myths is that productivity cannot be reduced to a single dimension (or metric!).  
+
+<img src="https://images.ctfassets.net/mmu68mmhtb17/3BHv4OO0W5JyrrexAquAMr/71621035286cddb22a762730dcb6af03/Dovetail-social-image-05.png?w=1200&h=600&q=50&fm=png" alt="Customer knowledge platform – Dovetail" style="width:15px;margin-bottom: -2px;"/> [Customer knowledge platform – Dovetail](https://dovetailapp.com/) 
+> Make sense of all kinds of customer research in one intuitive, collaborative, and searchable research repository. 
 ### April 27, 2022 
 <img src="https://miro.medium.com/max/1200/1*vD4mY6iEQ34HTcAYyPTlnw.png" alt="Asynchronous State Management With React-Query | by David Van Fleet | Apr, 2022 | Better Programming" style="width:15px;margin-bottom: -2px;"/> [Asynchronous State Management With React-Query | by David Van Fleet | Apr, 2022 | Better Programming](https://betterprogramming.pub/asynchronous-state-management-with-react-query-a9937457ed5e) 
 > Take a moment to think of the shared state in your latest React project. For most apps, this may include the currently logged-in user. A blog application may include all available blog posts or all… 
