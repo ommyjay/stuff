@@ -18,6 +18,10 @@
 
 
 
+
+### April 29, 2022 
+<img src="https://www.eisfunke.com/res/thumb/blockchain.jpg" alt="Blockchain is Dangerous Nonsense | Eisfunke" style="width:15px;margin-bottom: -2px;"/> [Blockchain is Dangerous Nonsense | Eisfunke](https://www.eisfunke.com/article/blockchain-technology.html) 
+> I’ve been concerned about the excesses of the blockchain industry and their spread into all parts of society for some time now. Here I’ve summarized my thoughts regarding the subject. 
 ### April 28, 2022 
 <img src="https://www.figma.com/file/raTJ2wDErnhqcKHv20U0Pw/thumbnail?ver=thumbnails/79028077-c0e3-4302-b746-6ec29769d1fe" alt="Buddr - Business – Figma" style="width:15px;margin-bottom: -2px;"/> [Buddr - Business – Figma](https://www.figma.com/file/raTJ2wDErnhqcKHv20U0Pw/Buddr---Business?node-id=0%3A1) 
 > Created with Figma 
