@@ -26,6 +26,11 @@
 
 <img src="https://nextjs.org/static/twitter-cards/documentation.png" alt="Migrating to Next.js: Incrementally Adopting Next.js | Next.js" style="width:15px;margin-bottom: -2px;"/> [Migrating to Next.js: Incrementally Adopting Next.js | Next.js](https://nextjs.org/docs/migrating/incremental-adoption) 
 > Learn different strategies for incrementally adopting Next.js into your development workflow. 
+
+<img src="https://slack.engineering/wp-content/uploads/sites/7/2021/08/image2.png?w=640" alt="How We Design Our APIs at Slack - Slack Engineering" style="width:15px;margin-bottom: -2px;"/> [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/) 
+> Developing your own API style guide can’t completely save you from making crummy decisions or preventing today’s enthusiastic choices becoming tomorrow’s regrets, but they will help you make decisions openly, honestly, and with clarity. In this post, we’ll describe our API design principles, as well as our process for how new APIs are specced, reviewed, and tested. By the end, you should have some ideas that you can take back to your own API process.
+
+ 
 ### April 29, 2022 
 <img src="https://www.eisfunke.com/res/thumb/blockchain.jpg" alt="Blockchain is Dangerous Nonsense | Eisfunke" style="width:15px;margin-bottom: -2px;"/> [Blockchain is Dangerous Nonsense | Eisfunke](https://www.eisfunke.com/article/blockchain-technology.html) 
 > I’ve been concerned about the excesses of the blockchain industry and their spread into all parts of society for some time now. Here I’ve summarized my thoughts regarding the subject. 
