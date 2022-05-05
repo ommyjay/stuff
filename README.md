@@ -19,6 +19,10 @@
 
 
 
+
+### May 5, 2022 
+<img src="https://doordash.engineering/wp-content/uploads/2022/03/sunorwind-C1MJ8IYUSmU-unsplash.jpg" alt="Improving Web Page Performance Server-Side Rendering with Next.JS" style="width:15px;margin-bottom: -2px;"/> [Improving Web Page Performance Server-Side Rendering with Next.JS](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/#adopting-SSR) 
+> Displaying enticing product images with fast load speeds on high-traffic pages can be a hard. Learn how we implemented server side rendering with next.js 
 ### April 29, 2022 
 <img src="https://www.eisfunke.com/res/thumb/blockchain.jpg" alt="Blockchain is Dangerous Nonsense | Eisfunke" style="width:15px;margin-bottom: -2px;"/> [Blockchain is Dangerous Nonsense | Eisfunke](https://www.eisfunke.com/article/blockchain-technology.html) 
 > I’ve been concerned about the excesses of the blockchain industry and their spread into all parts of society for some time now. Here I’ve summarized my thoughts regarding the subject. 
