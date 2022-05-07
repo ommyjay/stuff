@@ -24,6 +24,9 @@
 ### May 7, 2022 
 <img src="https://miro.medium.com/max/1200/1*p5UT-PsHc6zkbg3x4hZi_A.jpeg" alt="Mock React hooks with Jest | JavaScript in Plain English" style="width:15px;margin-bottom: -2px;"/> [Mock React hooks with Jest | JavaScript in Plain English](https://medium.com/javascript-in-plain-english/mock-your-hooks-to-make-testing-simpler-d405ed4cf30b) 
 > How to mock React hooks to test React component in an easier way 
+
+<img src="https://en.wikipedia.org/static/favicon/wikipedia.ico" alt="Adaptive bitrate streaming - Wikipedia" style="width:15px;margin-bottom: -2px;"/> [Adaptive bitrate streaming - Wikipedia](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming) 
+> Adaptive bitrate streaming 
 ### May 5, 2022 
 <img src="https://doordash.engineering/wp-content/uploads/2022/03/sunorwind-C1MJ8IYUSmU-unsplash.jpg" alt="Improving Web Page Performance Server-Side Rendering with Next.JS" style="width:15px;margin-bottom: -2px;"/> [Improving Web Page Performance Server-Side Rendering with Next.JS](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/#adopting-SSR) 
 > Displaying enticing product images with fast load speeds on high-traffic pages can be a hard. Learn how we implemented server side rendering with next.js 
