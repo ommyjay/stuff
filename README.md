@@ -21,6 +21,10 @@
 
 
 
+
+### May 8, 2022 
+<img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="react-circle - npm" style="width:15px;margin-bottom: -2px;"/> [react-circle - npm](https://www.npmjs.com/package/react-circle) 
+> <div align="center">   <img src="demo.gif" alt="Logo" width="800">   <br><br> </div>. Latest version: 1.1.1, last published: 4 years ago. Start using react-circle in your project by running `npm i react-circle`. There are 4 other projects in the npm registry using react-circle. 
 ### May 7, 2022 
 <img src="https://miro.medium.com/max/1200/1*p5UT-PsHc6zkbg3x4hZi_A.jpeg" alt="Mock React hooks with Jest | JavaScript in Plain English" style="width:15px;margin-bottom: -2px;"/> [Mock React hooks with Jest | JavaScript in Plain English](https://medium.com/javascript-in-plain-english/mock-your-hooks-to-make-testing-simpler-d405ed4cf30b) 
 > How to mock React hooks to test React component in an easier way 
