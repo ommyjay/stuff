@@ -35,6 +35,9 @@
 
 <img src="https://patterns.dev/img/remote/Zjmh38.jpg" alt="Provider Pattern" style="width:15px;margin-bottom: -2px;"/> [Provider Pattern](https://www.patterns.dev/posts/provider-pattern/) 
 > Make data available to multiple child components 
+
+<img src="https://miro.medium.com/max/1200/1*Qh_cKNppiSC7Zsu2yzbuBA.png" alt="The ID Principle for Improving Any Software Design Solution | by Elye | Better Programming" style="width:15px;margin-bottom: -2px;"/> [The ID Principle for Improving Any Software Design Solution | by Elye | Better Programming](https://betterprogramming.pub/the-id-principle-for-improving-any-software-design-solution-b375db8cc823) 
+> There are many software solution principles out there. How can we learn them all? If we encounter a software design problem, should we go through our repository of software design principles and see… 
 ### May 8, 2022 
 <img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="react-circle - npm" style="width:15px;margin-bottom: -2px;"/> [react-circle - npm](https://www.npmjs.com/package/react-circle) 
 > <div align="center">   <img src="demo.gif" alt="Logo" width="800">   <br><br> </div>. Latest version: 1.1.1, last published: 4 years ago. Start using react-circle in your project by running `npm i react-circle`. There are 4 other projects in the npm registry using react-circle. 
