@@ -22,6 +22,10 @@
 
 
 
+
+### May 9, 2022 
+<img src="https://tasoskakour.com/static/86bac99131e05498cc40923dfac085c2/cover.png" alt="OAuth2 Authorization with React | Tasos Kakouris" style="width:15px;margin-bottom: -2px;"/> [OAuth2 Authorization with React | Tasos Kakouris](https://tasoskakour.com/blog/react-use-oauth2) 
+> Building a React hook for OAuth2 authorization, step by step. 
 ### May 8, 2022 
 <img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="react-circle - npm" style="width:15px;margin-bottom: -2px;"/> [react-circle - npm](https://www.npmjs.com/package/react-circle) 
 > <div align="center">   <img src="demo.gif" alt="Logo" width="800">   <br><br> </div>. Latest version: 1.1.1, last published: 4 years ago. Start using react-circle in your project by running `npm i react-circle`. There are 4 other projects in the npm registry using react-circle. 
