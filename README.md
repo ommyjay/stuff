@@ -29,6 +29,9 @@
 
 <img src="https://opengraph.githubassets.com/366c7ac652649ea38ed9ca9c58443f2524c89daec629f73dc6d3addf06b800ae/netlify/build-image" alt="netlify/build-image: This is the build image used for running automated builds" style="width:15px;margin-bottom: -2px;"/> [netlify/build-image: This is the build image used for running automated builds](https://github.com/netlify/build-image) 
 > This is the build image used for running automated builds - netlify/build-image: This is the build image used for running automated builds 
+
+<img src="https://miro.medium.com/max/1200/1*jYhSDjGQ6XsRsSwXB4Rj1A.jpeg" alt="Your Git Commit History Should Read Like a History Book. Here’s How. | by Mirco | May, 2022 | Better Programming" style="width:15px;margin-bottom: -2px;"/> [Your Git Commit History Should Read Like a History Book. Here’s How. | by Mirco | May, 2022 | Better Programming](https://betterprogramming.pub/your-git-commit-history-should-read-like-a-history-book-heres-how-7f44d5df1801) 
+> We can learn from history. History tells us which events in the past shaped the present. The Boston Tea Party lead to the Independence War. The Battle of Waterloo led to the defeat of Napoleon. Can… 
 ### May 8, 2022 
 <img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="react-circle - npm" style="width:15px;margin-bottom: -2px;"/> [react-circle - npm](https://www.npmjs.com/package/react-circle) 
 > <div align="center">   <img src="demo.gif" alt="Logo" width="800">   <br><br> </div>. Latest version: 1.1.1, last published: 4 years ago. Start using react-circle in your project by running `npm i react-circle`. There are 4 other projects in the npm registry using react-circle. 
