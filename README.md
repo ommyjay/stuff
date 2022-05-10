@@ -23,6 +23,10 @@
 
 
 
+
+### May 10, 2022 
+<img src="https://tasoskakour.com/static/40781237676980d2c14a039968a4ffd2/cover.png" alt="React: useState vs useReducer | Tasos Kakouris" style="width:15px;margin-bottom: -2px;"/> [React: useState vs useReducer | Tasos Kakouris](https://tasoskakour.com/blog/react-use-state-vs-use-reducer) 
+> Comparing the two different implementations in a simple application. 
 ### May 9, 2022 
 <img src="https://tasoskakour.com/static/86bac99131e05498cc40923dfac085c2/cover.png" alt="OAuth2 Authorization with React | Tasos Kakouris" style="width:15px;margin-bottom: -2px;"/> [OAuth2 Authorization with React | Tasos Kakouris](https://tasoskakour.com/blog/react-use-oauth2) 
 > Building a React hook for OAuth2 authorization, step by step. 
