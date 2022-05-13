@@ -24,6 +24,10 @@
 
 
 
+
+### May 13, 2022 
+<img src="https://www.freecodecamp.org/news/content/images/2022/05/javascript-es-modules-and-module-bundlers-container-4203677_1920.jpg" alt="The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers" style="width:15px;margin-bottom: -2px;"/> [The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers](https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/) 
+> Modules and Module Bundlers are essential components of modern web development. But understanding how they work can quickly become overwhelming. This article will show you all you need to know about ES Modules and Module Bundlers in plain English. Table of Contents  1.  What Exactly Is a JavaScript 
 ### May 10, 2022 
 <img src="https://tasoskakour.com/static/40781237676980d2c14a039968a4ffd2/cover.png" alt="React: useState vs useReducer | Tasos Kakouris" style="width:15px;margin-bottom: -2px;"/> [React: useState vs useReducer | Tasos Kakouris](https://tasoskakour.com/blog/react-use-state-vs-use-reducer) 
 > Comparing the two different implementations in a simple application. 
