@@ -26,6 +26,10 @@
 
 
 
+
+### May 20, 2022 
+<img src="https://miro.medium.com/max/898/1*sAUnjuM5TXHlf7Qdef84jw.png" alt="Nginx Every Web Developer Should Know | by Zachary Lee | Frontend Weekly | May, 2022 | Medium" style="width:15px;margin-bottom: -2px;"/> [Nginx Every Web Developer Should Know | by Zachary Lee | Frontend Weekly | May, 2022 | Medium](https://medium.com/front-end-weekly/nginx-every-web-developer-should-know-c82cdefb636d) 
+> Nginx (pronounced “Engine X”) was originally designed and developed by Igor Sysoev for the most visited Rambler.ru in Russia. Development started in 2002, and the first public release was in October… 
 ### May 18, 2022 
 <img src="https://github.githubassets.com/images/modules/open_graph/github-logo.png" alt="Countries where SMS authentication is supported - GitHub Docs" style="width:15px;margin-bottom: -2px;"/> [Countries where SMS authentication is supported - GitHub Docs](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/countries-where-sms-authentication-is-supported#supported-countries-for-sms-authentication) 
 > Because of delivery success rates, GitHub only supports two-factor authentication via SMS for certain countries. 
