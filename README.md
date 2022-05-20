@@ -33,6 +33,9 @@
 
 <img src="https://miro.medium.com/max/1000/0*A1W6FTeWE6bFJYxm" alt="8 Cool GitHub Tricks To Make You Look Like A Senior Developer | by fatfish | May, 2022 | JavaScript in Plain English" style="width:15px;margin-bottom: -2px;"/> [8 Cool GitHub Tricks To Make You Look Like A Senior Developer | by fatfish | May, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/8-cool-github-tricks-to-make-you-look-like-a-senior-developer-ab8fe9ae9b14) 
 > As a developer, you must love to browse the GitHub website. But did you know there are a lot of hidden magical features that help us use it better? When you want to view the content of a file, you… 
+
+<img src="https://miro.medium.com/max/1172/1*Q6gN_9hsR886JT1lGM2rvA.png" alt="You are doing code reviews wrong. Doing code reviews correctly is hard… | by Šimon Tóth | ITNEXT" style="width:15px;margin-bottom: -2px;"/> [You are doing code reviews wrong. Doing code reviews correctly is hard… | by Šimon Tóth | ITNEXT](https://itnext.io/you-are-doing-code-reviews-wrong-e0b16ce8812b) 
+> Doing code reviews correctly is hard. In this guide we go over three levels of code review, their goals and benefits. 
 ### May 18, 2022 
 <img src="https://github.githubassets.com/images/modules/open_graph/github-logo.png" alt="Countries where SMS authentication is supported - GitHub Docs" style="width:15px;margin-bottom: -2px;"/> [Countries where SMS authentication is supported - GitHub Docs](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/countries-where-sms-authentication-is-supported#supported-countries-for-sms-authentication) 
 > Because of delivery success rates, GitHub only supports two-factor authentication via SMS for certain countries. 
