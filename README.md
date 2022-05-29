@@ -35,6 +35,9 @@
 
 <img src="undefined" alt="Convert Google Doc to Markdown" style="width:15px;margin-bottom: -2px;"/> [Convert Google Doc to Markdown](https://mr0grog.github.io/google-docs-to-markdown/) 
 > Convert Google Docs to Markdown 
+
+<img src="https://opengraph.githubassets.com/8bc5f060e4f8afbebd32eeb73dcf415a5a670c91159c416005e250db70730f69/evbacher/gd2md-html" alt="Home · evbacher/gd2md-html Wiki" style="width:15px;margin-bottom: -2px;"/> [Home · evbacher/gd2md-html Wiki](https://github.com/evbacher/gd2md-html/wiki) 
+> Convert a Google Doc to Markdown or HTML. This free Docs add-on converts a Google Doc to simple Markdown and/or HTML. - Home · evbacher/gd2md-html Wiki 
 ### May 24, 2022 
 <img src="https://miro.medium.com/max/978/0*5Pcw4Dv5EEzW0QqH.png" alt="Vulnerability Assessment And Penetration Testing | by ｙｏｄｈｈａ | Medium" style="width:15px;margin-bottom: -2px;"/> [Vulnerability Assessment And Penetration Testing | by ｙｏｄｈｈａ | Medium](https://medium.com/@yodhha/vulnerability-assessment-and-penetration-testing-daf86e72fe4f) 
 > Vulnerability assessment is a process in which the IT systems such as computers and networks, and software such as operating systems and application software are scanned in order to identify the… 
