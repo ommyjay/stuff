@@ -30,6 +30,10 @@
 
 
 
+
+### June 9, 2022 
+<img src="https://next.github.com/assets/projects/repo-visualization/repo-visualization.png" alt="GitHub Next | Visualizing a Codebase" style="width:15px;margin-bottom: -2px;"/> [GitHub Next | Visualizing a Codebase](https://githubnext.com/projects/repo-visualization) 
+> GitHub Next Project: How can we “fingerprint” a codebase to see its structure at a glance? Let’s explore ways to automatically visualize a GitHub repo, and how that could be useful. 
 ### May 30, 2022 
 <img src="https://miro.medium.com/max/1200/1*RIhrFTOMkhvsVuIDkYUKbg.png" alt="9 Different Ways to Embed Code in Medium | by Abhay Parashar | The Pythoneers | Medium" style="width:15px;margin-bottom: -2px;"/> [9 Different Ways to Embed Code in Medium | by Abhay Parashar | The Pythoneers | Medium](https://medium.com/pythoneers/9-different-ways-to-embedded-code-in-medium-9213cb4c0a2e) 
 > On Medium, programming is the most read content. The Programming tag itself has around 175k followers and combined with all other tags related to programming, it has over 500k followers. Most of the… 
