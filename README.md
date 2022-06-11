@@ -31,6 +31,10 @@
 
 
 
+
+### June 11, 2022 
+<img src="https://samanthaming.gumlet.io/tidbits/92-6-use-cases-of-spread-with-array.jpg.gz" alt="6 Use Case of Spread with Array in JavaScript | SamanthaMing.com" style="width:15px;margin-bottom: -2px;"/> [6 Use Case of Spread with Array in JavaScript | SamanthaMing.com](https://www.samanthaming.com/tidbits/92-6-use-cases-of-spread-with-array/) 
+> 6 ways to use the Spread operator with Array in JavaScript. Use it to merge or clone an array. Or use it to convert iterables to an array. 
 ### June 9, 2022 
 <img src="https://next.github.com/assets/projects/repo-visualization/repo-visualization.png" alt="GitHub Next | Visualizing a Codebase" style="width:15px;margin-bottom: -2px;"/> [GitHub Next | Visualizing a Codebase](https://githubnext.com/projects/repo-visualization) 
 > GitHub Next Project: How can we “fingerprint” a codebase to see its structure at a glance? Let’s explore ways to automatically visualize a GitHub repo, and how that could be useful. 
