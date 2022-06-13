@@ -32,6 +32,10 @@
 
 
 
+
+### June 13, 2022 
+<img src="https://miro.medium.com/max/1200/0*9LueMHO5f-3UU-wS" alt="How To Use DTO For Validation in NestJS (2022) | by Kevin Vogel | Better Programming" style="width:15px;margin-bottom: -2px;"/> [How To Use DTO For Validation in NestJS (2022) | by Kevin Vogel | Better Programming](https://betterprogramming.pub/how-to-use-data-transfer-objects-dto-for-validation-in-nest-js-7ff95309f650) 
+> Today I’ll talk about Data Transfer Objects (DTO) in NestJS and how to use them in order to validate your incoming requests. The DTO on its own is more of a guideline for the developer and those who… 
 ### June 11, 2022 
 <img src="https://samanthaming.gumlet.io/tidbits/92-6-use-cases-of-spread-with-array.jpg.gz" alt="6 Use Case of Spread with Array in JavaScript | SamanthaMing.com" style="width:15px;margin-bottom: -2px;"/> [6 Use Case of Spread with Array in JavaScript | SamanthaMing.com](https://www.samanthaming.com/tidbits/92-6-use-cases-of-spread-with-array/) 
 > 6 ways to use the Spread operator with Array in JavaScript. Use it to merge or clone an array. Or use it to convert iterables to an array. 
