@@ -33,6 +33,10 @@
 
 
 
+
+### June 23, 2022 
+<img src="https://cdn-media-1.freecodecamp.org/images/1*oPnpG64cvwTL8DHiaYSFew.jpeg" alt="All you need to know about Promise.all" style="width:15px;margin-bottom: -2px;"/> [All you need to know about Promise.all](https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/) 
+> Promises in JavaScript are one of the powerful APIs that help us to do Async operations. Promise.all takes Async operations to the next new level as it helps you to aggregate a group of promises. In other words, I can say that it helps you to do concurrent operations (sometimes 
 ### June 13, 2022 
 <img src="https://miro.medium.com/max/1200/0*9LueMHO5f-3UU-wS" alt="How To Use DTO For Validation in NestJS (2022) | by Kevin Vogel | Better Programming" style="width:15px;margin-bottom: -2px;"/> [How To Use DTO For Validation in NestJS (2022) | by Kevin Vogel | Better Programming](https://betterprogramming.pub/how-to-use-data-transfer-objects-dto-for-validation-in-nest-js-7ff95309f650) 
 > Today I’ll talk about Data Transfer Objects (DTO) in NestJS and how to use them in order to validate your incoming requests. The DTO on its own is more of a guideline for the developer and those who… 
