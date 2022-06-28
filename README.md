@@ -34,6 +34,10 @@
 
 
 
+
+### June 28, 2022 
+<img src="https://www.joshwcomeau.com/images/og-wonderful-emails-with-mjml-and-mdx.png" alt="My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails" style="width:15px;margin-bottom: -2px;"/> [My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) 
+> If you've ever had the misfortune of being tasked with building a template for HTML emails, you know it's tricky business! In this blog post, I share the approach I took to build responsive, client-friendly emails without a single <table> tag. 
 ### June 23, 2022 
 <img src="https://cdn-media-1.freecodecamp.org/images/1*oPnpG64cvwTL8DHiaYSFew.jpeg" alt="All you need to know about Promise.all" style="width:15px;margin-bottom: -2px;"/> [All you need to know about Promise.all](https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/) 
 > Promises in JavaScript are one of the powerful APIs that help us to do Async operations. Promise.all takes Async operations to the next new level as it helps you to aggregate a group of promises. In other words, I can say that it helps you to do concurrent operations (sometimes 
