@@ -35,6 +35,10 @@
 
 
 
+
+### June 30, 2022 
+<img src="https://i.ytimg.com/vi/5wxyDLXRho4/maxresdefault.jpg" alt="Component-driven microservices with NodeJS and Bit - YouTube" style="width:15px;margin-bottom: -2px;"/> [Component-driven microservices with NodeJS and Bit - YouTube](https://www.youtube.com/watch?v=5wxyDLXRho4&ab_channel=Bit) 
+> We all love components on the frontend, but have you tried them on the backend?In this live coding session, Gilad, Bit's VP R&D, will show you how to compose... 
 ### June 28, 2022 
 <img src="https://www.joshwcomeau.com/images/og-wonderful-emails-with-mjml-and-mdx.png" alt="My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails" style="width:15px;margin-bottom: -2px;"/> [My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) 
 > If you've ever had the misfortune of being tasked with building a template for HTML emails, you know it's tricky business! In this blog post, I share the approach I took to build responsive, client-friendly emails without a single <table> tag. 
