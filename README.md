@@ -36,6 +36,10 @@
 
 
 
+
+### July 4, 2022 
+<img src="https://miro.medium.com/max/1200/1*KDe7d8iu20ShJFyiTBpDZg@2x.png" alt="Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet | by Love Sharma | Jun, 2022 | Dev Genius" style="width:15px;margin-bottom: -2px;"/> [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheet | by Love Sharma | Jun, 2022 | Dev Genius](https://blog.devgenius.io/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b) 
+> Imagine you are buying a car. What essential features do you need in it? A vehicle should deliver a person from point A to point B. But what we also check in it is Safety, Comfort, Maintainability… 
 ### June 30, 2022 
 <img src="https://i.ytimg.com/vi/5wxyDLXRho4/maxresdefault.jpg" alt="Component-driven microservices with NodeJS and Bit - YouTube" style="width:15px;margin-bottom: -2px;"/> [Component-driven microservices with NodeJS and Bit - YouTube](https://www.youtube.com/watch?v=5wxyDLXRho4&ab_channel=Bit) 
 > We all love components on the frontend, but have you tried them on the backend?In this live coding session, Gilad, Bit's VP R&D, will show you how to compose... 
