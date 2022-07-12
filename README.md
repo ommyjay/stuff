@@ -38,6 +38,10 @@
 
 
 
+
+### July 12, 2022 
+<img src="https://miro.medium.com/max/1200/1*oA3eTuUFNoHts4goNQOM-g.jpeg" alt="Building Micro Frontends Using Single-SPA Framework | by Charuka Herath | Bits and Pieces" style="width:15px;margin-bottom: -2px;"/> [Building Micro Frontends Using Single-SPA Framework | by Charuka Herath | Bits and Pieces](https://blog.bitsrc.io/building-microfrontends-using-single-spa-framework-94019ca2fb4d) 
+> Modern web apps are becoming more and more complex over time. It makes it challenging to release software quickly without sacrificing quality. As a solution, Micro frontends came into the picture… 
 ### July 6, 2022 
 <img src="https://bun.sh/share.jpeg" alt="Bun is a fast all-in-one JavaScript runtime" style="width:15px;margin-bottom: -2px;"/> [Bun is a fast all-in-one JavaScript runtime](https://bun.sh/) 
 > Bundle, transpile, install and run JavaScript & TypeScript
