@@ -42,6 +42,9 @@
 ### July 12, 2022 
 <img src="https://miro.medium.com/max/1200/1*oA3eTuUFNoHts4goNQOM-g.jpeg" alt="Building Micro Frontends Using Single-SPA Framework | by Charuka Herath | Bits and Pieces" style="width:15px;margin-bottom: -2px;"/> [Building Micro Frontends Using Single-SPA Framework | by Charuka Herath | Bits and Pieces](https://blog.bitsrc.io/building-microfrontends-using-single-spa-framework-94019ca2fb4d) 
 > Modern web apps are becoming more and more complex over time. It makes it challenging to release software quickly without sacrificing quality. As a solution, Micro frontends came into the picture… 
+
+<img src="https://assets.website-files.com/627def74bc73d85070c65929/62a24b2ee9c3a1c876ca75bb_Untitled%20design.png" alt="PixieBrix: the perfect UX for work" style="width:15px;margin-bottom: -2px;"/> [PixieBrix: the perfect UX for work](https://www.pixiebrix.com/) 
+> PixieBrix is a low-code extension builder to rapidly customize and automate the web tools your teams already use. 
 ### July 6, 2022 
 <img src="https://bun.sh/share.jpeg" alt="Bun is a fast all-in-one JavaScript runtime" style="width:15px;margin-bottom: -2px;"/> [Bun is a fast all-in-one JavaScript runtime](https://bun.sh/) 
 > Bundle, transpile, install and run JavaScript & TypeScript
