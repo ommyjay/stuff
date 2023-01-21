@@ -47,6 +47,23 @@
 
 <img src="https://circleci.com/blog/media/default/post-image-alt.png" alt="How to Continuously Deploy a Chrome Extension - CircleCI" style="width:15px;margin-bottom: -2px;"/> [How to Continuously Deploy a Chrome Extension - CircleCI](https://circleci.com/blog/continuously-deploy-a-chrome-extension/) 
 > Google Chrome is the most-used browser on the Internet. And people are creating Chrome Extensions for all kinds of use-cases. Within 24 hours of Twitter announcing their 280 character tweets test, a new Chrome Extension collapsing tweets back to 140 characters was born. Within days of the hurricane in Puerto Rico, a $0.99 extension called Donate to Puerto Rico was created, showcasing beautiful images of the island, with all proceeds going towards charities helping rehabilitate the island.In a space that moves this quickly, we can automate the delivery of features, bug fixes, and security patches with Continuous Deployment. Google’s Chrome Developer Docs has a lot of information but doesn’t include anything on Continuous Integration or provide examples for automated deployment. We’ll cover one example in this post along with how we can tackle development environment challenges and versioning. 
+
+<img src="https://github.githubassets.com/favicons/favicon.svg" alt="fregante/chrome-webstore-upload: Upload Chrome Extensions to the Chrome Web Store" style="width:15px;margin-bottom: -2px;"/> [fregante/chrome-webstore-upload: Upload Chrome Extensions to the Chrome Web Store](https://github.com/fregante/chrome-webstore-upload) 
+> A small node.js module to upload/publish extensions to the Chrome Web Store.
+ 
+                  
+                    
+    
+
+                  
+                  Custom
+                
+ 
+                  Custom
+                
+ fregante/chrome-webstore-upload
+ Name already in use
+ chrome-webstore-upload 
 ### January 20, 2023 
 <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" alt="Your Lists" style="width:15px;margin-bottom: -2px;"/> [Your Lists](https://medium.com/me/list/highlights) 
 > Your Lists 
