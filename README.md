@@ -41,6 +41,10 @@
 
 
 
+
+### January 25, 2023 
+<img src="https://hbr.org/resources/images/hbr_opengraph_940x490.png" alt="The Curse of Knowledge" style="width:15px;margin-bottom: -2px;"/> [The Curse of Knowledge](https://hbr.org/2006/12/the-curse-of-knowledge) 
+> Reprint: F0612A Impenetrable strategy statements can’t unite employees behind an organization’s goals, but concrete language and stories can. 
 ### January 21, 2023 
 <img src="https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png" alt="Google OAuth “invalid_grant” nightmare — and how to fix it | by Lasse B. Andersen | Inside Timekit" style="width:15px;margin-bottom: -2px;"/> [Google OAuth “invalid_grant” nightmare — and how to fix it | by Lasse B. Andersen | Inside Timekit](https://blog.timekit.io/google-oauth-invalid-grant-nightmare-and-how-to-fix-it-9f4efaf1da35) 
 > At Timekit, we use the Google Calendar API extensively. A big part of our business is basically built on top of Google, as many of our customers use it sync bookings and availability to their Google… 
