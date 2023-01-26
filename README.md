@@ -42,6 +42,10 @@
 
 
 
+
+### January 26, 2023 
+<img src="http://www.mongodb.com/docs/assets/meta_generic.png" alt="Collation — MongoDB Manual" style="width:15px;margin-bottom: -2px;"/> [Collation — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/collation/#std-label-numeric-order-restrictions) 
+> Collation 
 ### January 25, 2023 
 <img src="https://hbr.org/resources/images/hbr_opengraph_940x490.png" alt="The Curse of Knowledge" style="width:15px;margin-bottom: -2px;"/> [The Curse of Knowledge](https://hbr.org/2006/12/the-curse-of-knowledge) 
 > Reprint: F0612A Impenetrable strategy statements can’t unite employees behind an organization’s goals, but concrete language and stories can. 
