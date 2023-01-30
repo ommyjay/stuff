@@ -43,6 +43,19 @@
 
 
 
+
+### January 30, 2023 
+<img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" alt="Not getting accurate result in mongodb using gte and lte query - Stack Overflow" style="width:15px;margin-bottom: -2px;"/> [Not getting accurate result in mongodb using gte and lte query - Stack Overflow](https://stackoverflow.com/questions/35744012/not-getting-accurate-result-in-mongodb-using-gte-and-lte-query) 
+> This is my user collection in mongodb
+
+{
+    "_id" : NumberLong(104060),
+    "age" : 41,
+    "username" : "appubhai75@gmail.com",
+    "roles" : [
+        "ROLE_USER"
+    ],
+    "firstName" : "Apurv... 
 ### January 26, 2023 
 <img src="http://www.mongodb.com/docs/assets/meta_generic.png" alt="Collation — MongoDB Manual" style="width:15px;margin-bottom: -2px;"/> [Collation — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/collation/#std-label-numeric-order-restrictions) 
 > Collation 
